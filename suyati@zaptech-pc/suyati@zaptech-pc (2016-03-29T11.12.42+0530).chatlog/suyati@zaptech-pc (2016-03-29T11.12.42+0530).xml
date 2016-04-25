@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<chat xmlns="http://purl.org/net/ulf/ns/0.4-02" account="vivek@192.168.15.43" service="Jabber" adiumversion="1.5.10.2" buildid="a23057ce854d">
+<event type="windowOpened" sender="vivek@192.168.15.43" time="2016-03-29T11:12:45+0530"></event>
+<message sender="vivek@192.168.15.43" time="2016-03-29T11:12:45+0530" alias="vivek "><div>Hello</div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-29T11:12:50+0530" alias="vivek "><div>Good Morning</div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-29T11:13:29+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">hello..gm..</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-29T11:14:02+0530" alias="vivek "><div>For the <span style="font-family: Helvetica; font-size: 12pt; font-weight: bold;">customerInfo.php</span>  we are having slow response, Please check from ur side</div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-29T11:14:09+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message></chat>

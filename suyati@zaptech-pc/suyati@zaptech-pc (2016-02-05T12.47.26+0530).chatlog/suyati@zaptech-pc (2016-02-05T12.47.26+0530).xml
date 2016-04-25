@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<chat xmlns="http://purl.org/net/ulf/ns/0.4-02" account="vivek@192.168.15.43" service="Jabber" adiumversion="1.5.10" buildid="7ad57fbf4c17">
+<event type="windowOpened" sender="vivek@192.168.15.43" time="2016-02-05T12:47:27+0530"></event>
+<message sender="suyati@zaptech-pc" time="2016-02-05T12:47:26+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">hi</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-05T12:47:33+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">done the chnge</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-05T12:51:27+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">pls check n let me know </span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-05T12:53:11+0530" alias="vivek "><div>ok</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-05T12:54:30+0530" alias="vivek "><div>Issue is solved now. And executing faster.</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-05T12:54:35+0530" alias="vivek "><div>Thanks</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-05T12:54:38+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<event type="windowClosed" sender="vivek@192.168.15.43" time="2016-02-05T12:55:03+0530"></event></chat>

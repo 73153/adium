@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<chat xmlns="http://purl.org/net/ulf/ns/0.4-02" account="vivek@192.168.15.43" service="Jabber" adiumversion="1.5.10.2" buildid="a23057ce854d">
+<event type="windowOpened" sender="vivek@192.168.15.43" time="2016-04-04T13:50:05+0530"></event>
+<status type="away" sender="suyati@zaptech-pc" time="2016-04-04T13:50:05+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">I&apos;m not here right now</span></div></status>
+<status type="idle" sender="suyati@zaptech-pc" time="2016-04-04T13:50:05+0530" alias="suyati"></status>
+<status type="available" sender="suyati@zaptech-pc" time="2016-04-04T13:54:11+0530" alias="suyati"></status>
+<status type="online" sender="suyati@zaptech-pc" time="2016-04-04T13:54:11+0530" alias="suyati"></status>
+<status type="away" sender="suyati@zaptech-pc" time="2016-04-04T14:02:48+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">I&apos;m not here right now</span></div></status>
+<status type="idle" sender="suyati@zaptech-pc" time="2016-04-04T14:02:48+0530" alias="suyati"></status>
+<status type="available" sender="suyati@zaptech-pc" time="2016-04-04T14:15:45+0530" alias="suyati"></status>
+<status type="online" sender="suyati@zaptech-pc" time="2016-04-04T14:15:45+0530" alias="suyati"></status>
+<status type="disconnected" sender="vivek@192.168.15.43" time="2016-04-04T14:16:24+0530" alias="vivek "><div>You have disconnected</div></status>
+<status type="connected" time="2016-04-04T14:16:29+0530"><div>You have connected</div></status>
+<status type="disconnected" sender="vivek@192.168.15.43" time="2016-04-04T14:17:03+0530" alias="vivek "><div>You have disconnected</div></status>
+<status type="connected" time="2016-04-04T14:17:16+0530"><div>You have connected</div></status>
+<status type="away" sender="suyati@zaptech-pc" time="2016-04-04T14:28:08+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">I&apos;m not here right now</span></div></status>
+<status type="idle" sender="suyati@zaptech-pc" time="2016-04-04T14:28:08+0530" alias="suyati"></status>
+<status type="available" sender="suyati@zaptech-pc" time="2016-04-04T14:28:17+0530" alias="suyati"></status>
+<status type="online" sender="suyati@zaptech-pc" time="2016-04-04T14:28:17+0530" alias="suyati"></status></chat>

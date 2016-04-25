@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<chat xmlns="http://purl.org/net/ulf/ns/0.4-02" account="vivek@192.168.15.43" service="Jabber" adiumversion="1.5.10" buildid="7ad57fbf4c17">
+<event type="windowOpened" sender="vivek@192.168.15.43" time="2016-01-21T14:45:35+0530"></event>
+<message sender="vivek@192.168.15.43" time="2016-01-21T14:45:35+0530" alias="vivek "><div>Hi</div></message>
+<message sender="vivek@192.168.15.43" time="2016-01-21T14:45:55+0530" alias="vivek "><div>customerRegistration.php web service i am not getting response.</div></message>
+<message sender="suyati@zaptech-pc" time="2016-01-21T14:58:59+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">hello</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-01-21T14:59:07+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">screenshot sent to arjun</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-01-21T15:04:17+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">hi</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-01-21T15:04:28+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">zipcode webservice is also ready</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-01-21T15:04:48+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">u need to pass zipcode and it will give availability message</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-01-21T15:05:07+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">details are added in sheet that bhumik shared with team leads</span></div></message>
+<status type="away" sender="suyati@zaptech-pc" time="2016-01-21T15:13:04+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">I&apos;m not here right now</span></div></status>
+<status type="idle" sender="suyati@zaptech-pc" time="2016-01-21T15:13:04+0530" alias="suyati"></status>
+<message sender="vivek@192.168.15.43" time="2016-01-21T15:14:32+0530" alias="vivek "><div>ok</div></message>
+<status type="available" sender="suyati@zaptech-pc" time="2016-01-21T15:19:37+0530" alias="suyati"></status>
+<status type="online" sender="suyati@zaptech-pc" time="2016-01-21T15:19:37+0530" alias="suyati"></status>
+<message sender="suyati@zaptech-pc" time="2016-01-21T15:20:03+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">is it working now?</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-01-21T15:20:17+0530" alias="vivek "><div>yes</div></message>
+<message sender="suyati@zaptech-pc" time="2016-01-21T15:20:23+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-01-21T15:20:29+0530" alias="vivek "><div>We have checked this three login registration and product request.</div></message>
+<message sender="vivek@192.168.15.43" time="2016-01-21T15:20:35+0530" alias="vivek "><div>this are working fine</div></message>
+<message sender="suyati@zaptech-pc" time="2016-01-21T15:20:46+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">let me know if u face any issue for any particular webservice</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-01-21T15:20:52+0530" alias="vivek "><div>ok</div></message>
+<message sender="vivek@192.168.15.43" time="2016-01-21T15:22:53+0530" alias="vivek "><div>Hi</div></message>
+<message sender="suyati@zaptech-pc" time="2016-01-21T15:23:00+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">hi</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-01-21T15:23:56+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">any issue?</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-01-21T15:23:59+0530" alias="vivek "><div>When i registered with the existing account, It is not showing the account already exist.</div></message>
+<message sender="suyati@zaptech-pc" time="2016-01-21T15:24:09+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok checking</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-01-21T15:27:56+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">check now</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-01-21T15:31:18+0530" alias="vivek "><div>ok</div></message>
+<event type="windowClosed" sender="vivek@192.168.15.43" time="2016-01-21T15:31:21+0530"></event></chat>

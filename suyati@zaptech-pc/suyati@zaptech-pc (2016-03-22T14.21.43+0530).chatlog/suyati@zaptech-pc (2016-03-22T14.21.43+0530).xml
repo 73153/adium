@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<chat xmlns="http://purl.org/net/ulf/ns/0.4-02" account="vivek@192.168.15.43" service="Jabber" adiumversion="1.5.10.2" buildid="a23057ce854d">
+<event type="windowOpened" sender="vivek@192.168.15.43" time="2016-03-22T14:22:23+0530"></event>
+<message sender="vivek@192.168.15.43" time="2016-03-22T14:22:23+0530" alias="vivek "><div>Hello</div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-22T14:22:31+0530" alias="vivek "><div>Good Afternoon</div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-22T14:23:03+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">hello</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-22T14:23:11+0530" alias="vivek "><div>For the wishlist.php we are not getting the products in cart</div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-22T14:23:30+0530" alias="vivek "><div>And also please check the response time for the same</div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-22T14:24:06+0530" alias="vivek "><div>prod_in_cart</div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-22T14:24:16+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">arjun has asked me to add that</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-22T14:24:22+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">will add it in a while</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-22T14:24:26+0530" alias="vivek "><div>ok</div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-22T14:47:46+0530" alias="vivek "><div>Hello</div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-22T14:48:03+0530" alias="vivek "><div>Please delete the account <a href="mailto:vivek@gmail.com">vivek@gmail.com</a></div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-22T14:48:11+0530" alias="vivek "><div>and password:-123456</div></message>
+<event type="windowClosed" sender="vivek@192.168.15.43" time="2016-03-22T15:05:03+0530"></event></chat>

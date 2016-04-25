@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<chat xmlns="http://purl.org/net/ulf/ns/0.4-02" account="vivek@192.168.15.43" service="Jabber" adiumversion="1.5.10.2" buildid="a23057ce854d">
+<event type="windowOpened" sender="vivek@192.168.15.43" time="2016-03-23T15:38:58+0530"></event>
+<message sender="suyati@zaptech-pc" time="2016-03-23T15:38:57+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">hi</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-23T15:39:08+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">which user are u using for wishlist</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-23T15:41:37+0530" alias="vivek "><div><a href="mailto:g.nirzar@gmail.com">g.nirzar@gmail.com</a></div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-23T15:41:44+0530" alias="vivek "><div>password:123456</div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-23T15:42:21+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-23T15:43:14+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">is wishlist ws working fine for you?</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-23T15:51:35+0530" alias="vivek "><div>yes</div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-23T15:51:48+0530" alias="vivek "><div>sorry for late reply, I was not on my desk</div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-23T15:52:24+0530" alias="vivek "><div>working fine</div></message>
+<status type="away" sender="suyati@zaptech-pc" time="2016-03-23T16:30:43+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">I&apos;m not here right now</span></div></status>
+<status type="idle" sender="suyati@zaptech-pc" time="2016-03-23T16:30:44+0530" alias="suyati"></status>
+<status type="available" sender="suyati@zaptech-pc" time="2016-03-23T16:36:31+0530" alias="suyati"></status>
+<status type="online" sender="suyati@zaptech-pc" time="2016-03-23T16:36:31+0530" alias="suyati"></status>
+<event type="windowClosed" sender="vivek@192.168.15.43" time="2016-03-23T16:49:28+0530"></event></chat>

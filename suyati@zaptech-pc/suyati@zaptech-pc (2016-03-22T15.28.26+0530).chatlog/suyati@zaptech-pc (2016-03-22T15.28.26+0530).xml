@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<chat xmlns="http://purl.org/net/ulf/ns/0.4-02" account="vivek@192.168.15.43" service="Jabber" adiumversion="1.5.10.2" buildid="a23057ce854d">
+<event type="windowOpened" sender="vivek@192.168.15.43" time="2016-03-22T15:28:27+0530"></event>
+<message sender="suyati@zaptech-pc" time="2016-03-22T15:28:27+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">hello</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-22T15:28:36+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">can u pls check wishlist now</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-22T15:28:42+0530" alias="vivek "><div>ok </div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-22T15:39:01+0530" alias="vivek "><div>Hello</div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-22T15:39:20+0530" alias="vivek "><div>Its not giving prod_in_cart</div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-22T15:39:33+0530" alias="vivek "><div>this the response</div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-22T15:39:33+0530" alias="vivek "><div>data =     (<br />                {<br />            description = Carrot;<br />            id = 2201;<br />            image = &quot;<a href="http://mycampusgenie.com/media/catalog/product/cache/1/image/265x/9df78eab33525d08d6e5fb8d27136e95/c/a/carrot_PNG4985_2.png">http://mycampusgenie.com/media/catalog/product/cache/1/image/265x/9df78eab33525d08d6e5fb8d27136e95/c/a/carrot_PNG4985_2.png</a>&quot;;<br />            name = Carrot;<br />            price = &quot;0.7900&quot;;<br />            qty = 1;<br />            sku = 2126;<br />        }<br />    );<br />    status = 1;<br /></div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-22T15:39:57+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">check now</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-22T15:40:02+0530" alias="vivek "><div>ok</div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-22T15:41:00+0530" alias="vivek "><div>now its working fine</div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-22T15:41:03+0530" alias="vivek "><div>thanks</div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-22T15:41:03+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<event type="windowClosed" sender="vivek@192.168.15.43" time="2016-03-22T16:11:44+0530"></event></chat>

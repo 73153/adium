@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<chat xmlns="http://purl.org/net/ulf/ns/0.4-02" account="vivek@192.168.15.43" service="Jabber" adiumversion="1.5.10" buildid="7ad57fbf4c17">
+<event type="windowOpened" sender="vivek@192.168.15.43" time="2016-02-08T10:14:30+0530"></event>
+<status type="away" sender="suyati@zaptech-pc" time="2016-02-08T10:14:30+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">I&apos;m not here right now</span></div></status>
+<status type="idle" sender="suyati@zaptech-pc" time="2016-02-08T10:14:30+0530" alias="suyati"></status>
+<message sender="vivek@192.168.15.43" time="2016-02-08T10:15:05+0530" alias="vivek "><div>Hi</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-08T10:15:11+0530" alias="vivek "><div>Good Morning.</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-08T10:16:40+0530" alias="vivek "><div>Please send the demo data for all the URL or web service that you have sended in mail.</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-08T10:17:46+0530" alias="vivek "><div>I have tested the cartActions.php and other related web service, But could not get the response.</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-08T10:19:28+0530" alias="vivek "><div>and also please send the proper response message for the url</div></message>
+<status type="purple" time="2016-02-08T10:20:33+0530"><div><span style="font-family: Helvetica; font-size: 12pt;">Offering to send Screen Shot 2016-02-08 at 10.20.06 AM.png to suyati</span></div></status>
+<message sender="vivek@192.168.15.43" time="2016-02-08T10:20:56+0530" alias="vivek "><div>please check the response screen shot and let me know ASAP.</div></message>
+<status type="available" sender="suyati@zaptech-pc" time="2016-02-08T10:29:18+0530" alias="suyati"></status>
+<status type="online" sender="suyati@zaptech-pc" time="2016-02-08T10:29:18+0530" alias="suyati"></status>
+<status type="purple" time="2016-02-08T10:31:51+0530"><div><span style="font-family: Helvetica; font-size: 12pt;">Transfer of file Screen Shot 2016-02-08 at 10.20.06 AM.png complete</span></div></status>
+<message sender="suyati@zaptech-pc" time="2016-02-08T10:34:20+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">use TEST100 as coupon code</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-08T10:34:36+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">i will add a status 0 condition for this</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-08T10:35:28+0530" alias="vivek "><div>please update all the url with parameters (DEMO), it in the xlsheet and send in email or in chat.</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-08T10:36:00+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-08T10:36:05+0530" alias="vivek "><div>cartAction, couponAction &amp; <br />checkoutAddressStep Webservices.<br /></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-08T10:36:09+0530" alias="vivek "><div>For this url</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-08T10:36:21+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">have u reached checkout process?</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-08T10:36:26+0530" alias="vivek "><div>yes</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-08T10:36:36+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">did u check cartaction?</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-08T10:36:52+0530" alias="vivek "><div>We have tested it in REST client</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-08T10:36:57+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<event type="windowClosed" sender="vivek@192.168.15.43" time="2016-02-08T10:37:04+0530"></event>
+<event type="windowOpened" sender="vivek@192.168.15.43" time="2016-02-08T10:37:23+0530"></event>
+<message sender="suyati@zaptech-pc" time="2016-02-08T10:37:23+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">for checkout address wtep</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-08T10:37:34+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">for a logged in user</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-08T10:38:14+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">who is having addresses already saved, you will need to call a webservice to get the list of all available addresses</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-08T10:38:22+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">    	 	 	 	 	 	 	     	 	 		customerAddressList.php 	     </span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-08T10:38:22+0530" alias="vivek "><div>i did not get you?</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-08T10:39:03+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">can u come down</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-08T10:39:12+0530" alias="vivek "><div>ok</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-08T10:39:13+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">i can explain properly</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-08T10:39:16+0530" alias="vivek "><div>ok</div></message>
+<event type="windowClosed" sender="vivek@192.168.15.43" time="2016-02-08T10:39:17+0530"></event></chat>

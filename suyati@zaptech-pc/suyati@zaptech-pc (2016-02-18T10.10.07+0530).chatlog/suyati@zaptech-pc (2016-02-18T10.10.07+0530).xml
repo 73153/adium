@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<chat xmlns="http://purl.org/net/ulf/ns/0.4-02" account="vivek@192.168.15.43" service="Jabber" adiumversion="1.5.10" buildid="7ad57fbf4c17">
+<event type="windowOpened" sender="vivek@192.168.15.43" time="2016-02-18T10:10:10+0530"></event>
+<message sender="suyati@zaptech-pc" time="2016-02-18T10:10:09+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">hello </span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-18T10:10:15+0530" alias="vivek "><div>Hello</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-18T10:10:27+0530" alias="vivek "><div>gm</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-18T10:10:33+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">can u pls check search ws now if you are getting any minor imporvements for speed</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-18T10:10:45+0530" alias="vivek "><div>ok</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-18T10:11:44+0530" alias="vivek "><div><span style="font-family: Helvetica; font-size: 12pt; font-weight: bold;"> 151698 ms4</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-18T10:11:58+0530" alias="vivek "><div> <span style="font-family: Helvetica; font-size: 12pt; font-weight: bold;">15698 ms</span>*</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-18T10:12:28+0530" alias="vivek "><div>previously it was 17770</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-18T10:12:37+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-18T10:12:40+0530" alias="vivek "><div>The is improvement</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-18T10:12:45+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-18T10:13:00+0530" alias="vivek "><div>but try to reduce it </div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-18T10:13:00+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">let me try with other as well</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-18T10:13:06+0530" alias="vivek "><div>yeah sure </div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-18T10:13:14+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">pls keep a track of previous time taken</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-18T10:13:21+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">so that we can compare</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-18T10:13:25+0530" alias="vivek "><div>yes but its getting random</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-18T10:13:32+0530" alias="vivek "><div><span style="font-family: Helvetica; font-size: 12pt; font-weight: bold;">Time</span> <span style="font-family: Helvetica; font-size: 12pt; font-weight: bold;">18299 ms</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-18T10:13:47+0530" alias="vivek "><div>Its the same response i tried just now</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-18T10:14:10+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">then it is getting effected by internet speed i suppose</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-18T10:14:16+0530" alias="vivek "><div><span style="font-family: Helvetica; font-size: 12pt; font-weight: bold;">Time</span> <span style="font-family: Helvetica; font-size: 12pt; font-weight: bold;">18596 ms</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-18T10:14:38+0530" alias="vivek "><div>Yeah but still please check from your end else we need to contact parth</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-18T10:14:48+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<event type="windowClosed" sender="vivek@192.168.15.43" time="2016-02-18T10:15:43+0530"></event></chat>

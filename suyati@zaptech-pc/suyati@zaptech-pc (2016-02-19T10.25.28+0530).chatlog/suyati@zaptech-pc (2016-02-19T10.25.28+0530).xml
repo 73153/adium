@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<chat xmlns="http://purl.org/net/ulf/ns/0.4-02" account="vivek@192.168.15.43" service="Jabber" adiumversion="1.5.10" buildid="7ad57fbf4c17">
+<event type="windowOpened" sender="vivek@192.168.15.43" time="2016-02-19T10:25:41+0530"></event>
+<message sender="vivek@192.168.15.43" time="2016-02-19T10:25:41+0530" alias="vivek "><div>Hello Good Morning</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-19T10:25:49+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">hello gm</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-19T10:26:41+0530" alias="vivek "><div>Thanks  for the speeding web service response.</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-19T10:27:05+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">are they working fine now?</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-19T10:27:48+0530" alias="vivek "><div>yes, bit better than previous response.</div></message>
+<event type="windowClosed" sender="vivek@192.168.15.43" time="2016-02-19T10:28:16+0530"></event>
+<event type="windowOpened" sender="vivek@192.168.15.43" time="2016-02-19T10:29:31+0530"></event>
+<message sender="suyati@zaptech-pc" time="2016-02-19T10:29:31+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<event type="windowClosed" sender="vivek@192.168.15.43" time="2016-02-19T10:29:39+0530"></event>
+<event type="windowOpened" sender="vivek@192.168.15.43" time="2016-02-19T10:29:42+0530"></event>
+<message sender="vivek@192.168.15.43" time="2016-02-19T10:39:22+0530" alias="vivek "><div>Hello</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-19T10:39:28+0530" alias="vivek "><div>1.  searchprod.php <br />    2.    topProductsPerCategoryList.php <br />    3.    brandAssignedProductList.php <br />    4.    categorySub.php </div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-19T10:39:54+0530" alias="vivek "><div>This above web service is getting quick reponse now</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-19T10:40:04+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-19T10:40:07+0530" alias="vivek "><div>also </div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-19T10:40:08+0530" alias="vivek "><div>brandList.php </div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-19T10:40:32+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-19T10:40:47+0530" alias="vivek "><div>Please check the response time for customerOrderInfo.php </div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-19T10:41:04+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">still slow</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-19T10:41:26+0530" alias="vivek "><div>nope sorry now getting quick reponse</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-19T10:41:40+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-19T10:42:57+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">i have changed all ws code to custom code instead of default api methids</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-19T10:43:04+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">methods*</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-19T10:43:18+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">for all above ws</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-19T10:43:38+0530" alias="vivek "><div>ok.</div></message>
+<event type="windowClosed" sender="vivek@192.168.15.43" time="2016-02-19T10:43:56+0530"></event>
+<event type="windowOpened" sender="vivek@192.168.15.43" time="2016-02-19T10:44:45+0530"></event>
+<message sender="vivek@192.168.15.43" time="2016-02-19T10:44:47+0530" alias="vivek "><div>Hello</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-19T10:45:18+0530" alias="vivek "><div>i don&apos;t no about custom code in PHP, But i have one query in my mind </div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-19T10:45:25+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">yes</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-19T10:45:35+0530" alias="vivek "><div>Will it work for dynamic data?</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-19T10:45:44+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">means?</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-19T10:46:50+0530" alias="vivek "><div>i mean, if we want to add and remove the product from back end side will it be dynamic.</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-19T10:47:17+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">yes</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-19T10:47:36+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">it will work fine</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-19T10:48:20+0530" alias="vivek "><div>ok all problem is solved now for me, Accept  the cart side response we need to work.</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-19T10:48:32+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">yes</span></div></message>
+<event type="windowClosed" sender="vivek@192.168.15.43" time="2016-02-19T10:49:56+0530"></event></chat>

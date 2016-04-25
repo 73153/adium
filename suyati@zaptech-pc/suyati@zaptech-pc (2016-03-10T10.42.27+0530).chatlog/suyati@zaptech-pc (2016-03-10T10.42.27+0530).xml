@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<chat xmlns="http://purl.org/net/ulf/ns/0.4-02" account="vivek@192.168.15.43" service="Jabber" adiumversion="1.5.10.2" buildid="a23057ce854d">
+<event type="windowOpened" sender="vivek@192.168.15.43" time="2016-03-10T10:43:12+0530"></event>
+<message sender="vivek@192.168.15.43" time="2016-03-10T10:43:12+0530" alias="vivek "><div>Hello</div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-10T10:43:17+0530" alias="vivek "><div>Good morning</div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-10T10:43:38+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">hello gm</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-10T10:44:21+0530" alias="vivek "><div>For the server url zipcodeAvailability.php please check from your side.</div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-10T10:44:25+0530" alias="vivek "><div>we are getting</div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-10T10:44:42+0530" alias="vivek "><div>Invalid api path</div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-10T10:44:48+0530" alias="vivek "><div> </div></message>
+<status type="purple" time="2016-03-10T10:44:48+0530"><div><span style="font-family: Helvetica; font-size: 12pt;">Offering to send Screen Shot 2016-03-09 at 6.38.45 PM.png to suyati</span></div></status>
+<status type="purple" time="2016-03-10T10:44:59+0530"><div><span style="font-family: Helvetica; font-size: 12pt;">Transfer of file Screen Shot 2016-03-09 at 6.38.45 PM.png complete</span></div></status>
+<message sender="vivek@192.168.15.43" time="2016-03-10T10:45:01+0530" alias="vivek "><div>please check the screen shot</div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-10T10:45:05+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok will check it</span></div></message>
+<status type="away" sender="suyati@zaptech-pc" time="2016-03-10T11:02:22+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">I&apos;m not here right now</span></div></status>
+<status type="idle" sender="suyati@zaptech-pc" time="2016-03-10T11:02:22+0530" alias="suyati"></status>
+<status type="available" sender="suyati@zaptech-pc" time="2016-03-10T11:07:34+0530" alias="suyati"></status>
+<status type="online" sender="suyati@zaptech-pc" time="2016-03-10T11:07:34+0530" alias="suyati"></status>
+<event type="windowClosed" sender="vivek@192.168.15.43" time="2016-03-10T11:23:00+0530"></event></chat>

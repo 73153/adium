@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<chat xmlns="http://purl.org/net/ulf/ns/0.4-02" account="vivek@192.168.15.43" service="Jabber" adiumversion="1.5.10" buildid="7ad57fbf4c17">
+<event type="windowOpened" sender="vivek@192.168.15.43" time="2016-02-17T18:53:09+0530"></event>
+<message sender="vivek@192.168.15.43" time="2016-02-17T18:53:09+0530" alias="vivek "><div>Hello</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-17T18:54:28+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">hi</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-17T18:54:46+0530" alias="vivek "><div>Please make this change tommorow, When you are free, For speed response in the searchprod.php. </div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-17T18:55:04+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">still slow?</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-17T18:55:10+0530" alias="vivek "><div>Yes bit.</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-17T18:55:14+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<event type="windowClosed" sender="vivek@192.168.15.43" time="2016-02-17T18:55:28+0530"></event></chat>

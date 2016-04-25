@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<chat xmlns="http://purl.org/net/ulf/ns/0.4-02" account="vivek@192.168.15.43" service="Jabber" adiumversion="1.5.10.2" buildid="a23057ce854d">
+<event type="windowOpened" sender="vivek@192.168.15.43" time="2016-04-07T11:02:39+0530"></event>
+<message sender="vivek@192.168.15.43" time="2016-04-07T11:02:39+0530" alias="vivek "><div>Hello<br /><br />Any work is pending?</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T11:02:58+0530" alias="vivek "><div> </div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T11:03:04+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">m jst testing</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T11:03:31+0530" alias="vivek "><div>find the issue and please share the screenshot </div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T11:04:53+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<status type="idle" sender="karishma@zaptech-pc" time="2016-04-07T11:15:15+0530" alias="karishma"></status>
+<status type="away" sender="karishma@zaptech-pc" time="2016-04-07T11:24:55+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">Away</span></div></status>
+<status type="available" sender="karishma@zaptech-pc" time="2016-04-07T11:46:33+0530" alias="karishma"></status>
+<status type="online" sender="karishma@zaptech-pc" time="2016-04-07T11:47:02+0530" alias="karishma"></status>
+<status type="idle" sender="karishma@zaptech-pc" time="2016-04-07T12:43:57+0530" alias="karishma"></status>
+<status type="available" sender="karishma@zaptech-pc" time="2016-04-07T12:46:49+0530" alias="karishma"></status>
+<status type="idle" sender="karishma@zaptech-pc" time="2016-04-07T12:57:00+0530" alias="karishma"></status>
+<status type="away" sender="karishma@zaptech-pc" time="2016-04-07T13:06:50+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">Away</span></div></status>
+<status type="available" sender="karishma@zaptech-pc" time="2016-04-07T13:19:14+0530" alias="karishma"></status>
+<status type="online" sender="karishma@zaptech-pc" time="2016-04-07T13:19:26+0530" alias="karishma"></status>
+<status type="idle" sender="karishma@zaptech-pc" time="2016-04-07T13:36:39+0530" alias="karishma"></status>
+<status type="available" sender="karishma@zaptech-pc" time="2016-04-07T13:42:21+0530" alias="karishma"></status>
+<message sender="vivek@192.168.15.43" time="2016-04-07T14:44:36+0530" alias="vivek "><div>Hello</div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T14:44:58+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">yes</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T14:44:58+0530" alias="vivek "><div>What you are doing ?</div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T14:45:15+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">in sub category</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T14:45:34+0530" alias="vivek "><div>ok</div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T14:46:12+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">u</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T14:46:24+0530" alias="vivek "><div>dashboard</div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T14:46:30+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T14:46:31+0530" alias="vivek "><div>click area big</div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T14:46:34+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">done </span></div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T14:46:40+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">then commit</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T14:46:43+0530" alias="vivek "><div>ok</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T14:46:44+0530" alias="vivek "><div>sure</div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T14:58:07+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">hu commit karu 6u</span></div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T14:58:09+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">ok ?</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T14:58:11+0530" alias="vivek "><div>ok</div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T14:58:31+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">k</span></div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T14:59:05+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">take pull</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T14:59:08+0530" alias="vivek "><div>ok</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T15:17:52+0530" alias="vivek "><div>done for click in dashboard</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T15:18:00+0530" alias="vivek "><div>Shall i push the code?</div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T15:18:23+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T15:19:34+0530" alias="vivek "><div>Please take pull from git</div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T15:19:40+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T15:19:58+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">done</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T15:19:59+0530" alias="vivek "><div>And please let me know if any other issue.</div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T15:20:22+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">delete click pr alert pela batavanu</span></div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T15:20:25+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">then</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T15:20:40+0530" alias="vivek "><div>ok sure i will do that in my kart</div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T15:20:47+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">- (void)ShowAlertWithTitle:(NSString *)title <a href="message:(NSString" style="text-decoration: underline;">Message:(NSString</a> *)message {</span><br /><span style="font-family: Helvetica; font-size: 12pt;">    [[[UIAlertView alloc]initWithTitle:title <a href="message:message" style="text-decoration: underline;">message:message</a> delegate:nil cancelButtonTitle:@&quot;OK&quot; otherButtonTitles:nil] show];</span><br /><span style="font-family: Helvetica; font-size: 12pt;">}</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T15:21:00+0530" alias="vivek "><div>ok sure i will use this</div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T15:21:04+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">hmm</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T15:21:13+0530" alias="vivek "><div>COOL</div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T15:21:17+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">tme kart ma muko pa6i </span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T15:21:38+0530" alias="vivek "><div>ok</div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T15:21:57+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">bije hu mukis</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T15:22:04+0530" alias="vivek "><div>ok</div></message>
+<status type="idle" sender="karishma@zaptech-pc" time="2016-04-07T15:31:57+0530" alias="karishma"></status>
+<message sender="vivek@192.168.15.43" time="2016-04-07T15:38:17+0530" alias="vivek "><div>done</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T15:38:26+0530" alias="vivek "><div>please take pull from git</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T15:39:15+0530" alias="vivek "><div>please take pull from git<br /><br />done alert before deleting the poduct from my kart<br /><br />product*</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T15:40:59+0530" alias="vivek "><div>And please let me know if any other issue.</div></message>
+<status type="away" sender="karishma@zaptech-pc" time="2016-04-07T15:41:58+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">Away</span></div></status>
+<status type="available" sender="karishma@zaptech-pc" time="2016-04-07T15:42:26+0530" alias="karishma"></status>
+<status type="online" sender="karishma@zaptech-pc" time="2016-04-07T15:42:26+0530" alias="karishma"></status>
+<message sender="karishma@zaptech-pc" time="2016-04-07T15:42:36+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T15:42:48+0530" alias="vivek "><div>please let me know if any other issue.</div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T15:43:01+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T15:47:03+0530" alias="vivek "><div>Hello</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T15:47:16+0530" alias="vivek "><div>Have you done any changes in sub category &gt;</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T15:47:17+0530" alias="vivek "><div>?</div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T15:47:25+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">yes</span></div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T15:47:41+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">place request still not proper</span></div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T15:47:50+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">its not gud</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T15:47:53+0530" alias="vivek "><div>click is not proper showing the product</div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T15:48:06+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">nd ema request nu same as web joiye 6</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T15:48:22+0530" alias="vivek "><div>ok i will check and solve</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T15:48:27+0530" alias="vivek "><div>dont worry</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T15:48:29+0530" alias="vivek "><div>COOL</div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T15:48:34+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T15:48:40+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">su click ?</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T15:48:40+0530" alias="vivek "><div>hmm not</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T15:48:50+0530" alias="vivek "><div>this time</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T15:49:04+0530" alias="vivek "><div> </div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T15:49:08+0530" alias="vivek "><div> </div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T15:50:04+0530" alias="vivek "><div> </div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T15:50:50+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T15:51:00+0530" alias="vivek "><div> </div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T15:51:08+0530" alias="vivek "><div> </div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T15:51:14+0530" alias="vivek "><div>COOL</div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T15:51:26+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T15:51:36+0530" alias="vivek "><div>ok</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T15:54:31+0530" alias="vivek "><div>Hello</div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T15:54:36+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">yes</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T15:54:41+0530" alias="vivek "><div>I have got the issue</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T15:54:43+0530" alias="vivek "><div>1. UI issues in each screen in IOS and Android (label overlapping , spell mistake , Date format and alignment )<br />2. Increase loading Speed in dashboard , Search  and other screen to load data .<br />3. Show brand name in products .<br />4. Android App : change loading icon  and screen freeze issue .<br />5. Change UI of my profile and my order screens.<br />6. Functionality for wallet and refer friends will be same as website .<br />7.  Edit profile screen : not need to show account details .<br />8. Category images should be bigger .<br />9. increase reorder button in My order screen.<br />10 . Delivery preference Screen : Select date and time are not clickable in iPhone 6 + and 6s +.</div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T15:54:52+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">gani vaar dashboard ma loader farya j kare</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T15:54:59+0530" alias="vivek "><div>why you have not shared</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T15:55:09+0530" alias="vivek "><div>ok i will check that</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T15:55:37+0530" alias="vivek "><div>have you got the list of issue</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T15:55:39+0530" alias="vivek "><div>1. UI issues in each screen in IOS and Android (label overlapping , spell mistake , Date format and alignment )<br />2. Increase loading Speed in dashboard , Search  and other screen to load data .<br />3. Show brand name in products .<br />4. Android App : change loading icon  and screen freeze issue .<br />5. Change UI of my profile and my order screens.<br />6. Functionality for wallet and refer friends will be same as website .<br />7.  Edit profile screen : not need to show account details .<br />8. Category images should be bigger .<br />9. increase reorder button in My order screen.<br />10 . Delivery preference Screen : Select date and time are not clickable in iPhone 6 + and 6s +.</div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T15:55:53+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">mne hmna aapya</span></div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T15:55:57+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">6</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T15:56:00+0530" alias="vivek "><div>ok no problem</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T15:56:13+0530" alias="vivek "><div>i am there not to fear</div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T15:56:18+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;"> thoda kidha hata savare to e solve karta hata</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T15:56:25+0530" alias="vivek "><div>ok</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T15:56:29+0530" alias="vivek "><div>i am there not to fear</div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T15:56:55+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T15:57:07+0530" alias="vivek "><div>please you work for this</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T15:57:09+0530" alias="vivek "><div>1. UI issues in each screen in IOS and Android (label overlapping , spell mistake , Date format and alignment )</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T15:57:30+0530" alias="vivek "><div>3. Show brand name in products .</div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T15:58:48+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">hmm</span></div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T15:58:52+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">thai gayu</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T15:59:01+0530" alias="vivek "><div>great this time</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T15:59:11+0530" alias="vivek "><div>you are forward</div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T16:08:49+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">hi</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T16:08:52+0530" alias="vivek "><div>Hello</div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T16:09:00+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">check dashboard crach mare 6</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T16:09:44+0530" alias="vivek "><div>ok i will check</div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T16:10:05+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">if(pageNoCount==1){</span><br /><span style="font-family: Helvetica; font-size: 12pt;">                     aryDashBoard = [[NSMutableArray alloc] init];</span><br /><span style="font-family: Helvetica; font-size: 12pt;">                     DashboardCell *cell =[self.tableView cellForRowAtIndexPath:[NSIndexPath indexPathForItem:0 inSection:0]];</span><br /><span style="font-family: Helvetica; font-size: 12pt;">                     [cell.scrollView.subviews makeObjectsPerformSelector: @selector(removeFromSuperview)];</span><br /><span style="font-family: Helvetica; font-size: 12pt;">                 }</span><br /></div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T16:10:08+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">ahi</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T16:10:17+0530" alias="vivek "><div>ok sure</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T16:10:19+0530" alias="vivek "><div>thanks</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T16:10:23+0530" alias="vivek "><div>i will check</div></message>
+<status type="offline" sender="karishma@zaptech-pc" time="2016-04-07T16:29:11+0530" alias="karishma"></status>
+<status type="online" sender="karishma@zaptech-pc" time="2016-04-07T17:02:00+0530" alias="karishma"></status>
+<message sender="vivek@192.168.15.43" time="2016-04-07T17:05:23+0530" alias="vivek "><div>Hello<br /><br />on which point you are working?</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T17:07:04+0530" alias="vivek "><div> </div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T17:07:13+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">wait tell you</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T17:07:40+0530" alias="vivek "><div>i am making changes in subcategory in storyboard</div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T17:07:48+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">dnt do</span></div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T17:07:55+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">nirzar is working soryboard</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T17:08:31+0530" alias="vivek "><div>ok</div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T17:08:43+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T17:09:13+0530" alias="vivek "><div>Also make this change</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T17:09:14+0530" alias="vivek "><div>Category images should be bigger .</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T17:09:36+0530" alias="vivek "><div>subcategory popular product image</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T17:09:46+0530" alias="vivek "><div>from story board</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T17:10:14+0530" alias="vivek "><div> </div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T17:17:37+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">hu badhe delete ma alert muku 6u</span></div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T17:17:41+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">tme ?</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T17:18:02+0530" alias="vivek "><div>lai jagya?</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T17:18:05+0530" alias="vivek "><div>kai scree</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T17:18:08+0530" alias="vivek "><div>screen?</div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T17:18:26+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">shopping</span></div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T17:18:31+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">nd search</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T17:18:36+0530" alias="vivek "><div>i will make</div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T17:18:43+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">jya delete btn aave badhe</span></div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T17:18:55+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">hu karu</span></div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T17:18:59+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">hu shikhish</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T17:19:08+0530" alias="vivek "><div>no sorry this</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T17:19:10+0530" alias="vivek "><div>time</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T17:19:56+0530" alias="vivek "><div>please make changes to spelling mistake in my kart in storyboard </div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T17:20:08+0530" alias="vivek "><div>freee delivery</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T17:20:15+0530" alias="vivek "><div>Ammount</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T17:20:55+0530" alias="vivek "><div>and please push the code if you are done with the changes from your side</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T17:21:05+0530" alias="vivek "><div> </div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T17:21:08+0530" alias="vivek "><div> </div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T17:21:24+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">i done</span></div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T17:21:30+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T17:21:49+0530" alias="vivek "><div>what happen are you happy?</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T17:22:11+0530" alias="vivek "><div><br />hu karu<br /><br />hu shikhish</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T17:22:30+0530" alias="vivek "><div>You are interested then you may please do</div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T17:22:42+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">i vl learn for delete alert</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T17:22:49+0530" alias="vivek "><div>ok</div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T17:22:52+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">yes i am interested</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T17:22:58+0530" alias="vivek "><div>you may proceed</div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T17:23:04+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">okay</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T17:26:24+0530" alias="vivek "><div>Also do not use this method </div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T17:26:32+0530" alias="vivek "><div>(void)ShowAlertWithTitle:(NSString *)title <a href="message:(NSString" style="text-decoration: underline;">Message:(NSString</a> *)message from appdata</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T17:26:39+0530" alias="vivek "><div>for delete alert</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T17:27:12+0530" alias="vivek "><div>because you for this alert delegate will not get called</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T17:27:24+0530" alias="vivek "><div>in prticaular  controller</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T17:27:30+0530" alias="vivek "><div>particular*</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T17:28:24+0530" alias="vivek "><div> </div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T17:28:25+0530" alias="vivek "><div> </div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T17:28:28+0530" alias="vivek "><div>hello</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T17:28:47+0530" alias="vivek "><div> </div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T17:28:48+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">okay</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T17:28:59+0530" alias="vivek "><div>have you solved this issue</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T17:29:00+0530" alias="vivek "><div>3. Show brand name in products .</div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T17:29:16+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">yes solved</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T17:29:25+0530" alias="vivek "><div>ok</div></message>
+<status type="idle" sender="karishma@zaptech-pc" time="2016-04-07T17:50:51+0530" alias="karishma"></status>
+<status type="available" sender="karishma@zaptech-pc" time="2016-04-07T17:56:09+0530" alias="karishma"></status>
+<message sender="vivek@192.168.15.43" time="2016-04-07T18:05:25+0530" alias="vivek "><div>Hello</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T18:05:33+0530" alias="vivek "><div>Amy help needed </div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T18:05:37+0530" alias="vivek "><div>any*</div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T18:05:38+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">no</span></div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T18:05:46+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">hu code push karu </span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T18:05:46+0530" alias="vivek "><div>great</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T18:05:50+0530" alias="vivek "><div>ok</div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T18:06:03+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">tme check kari lo shopping list ma alert barabar 6 ?</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T18:06:22+0530" alias="vivek "><div>ok</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T18:06:39+0530" alias="vivek "><div>nd search nu?</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T18:06:41+0530" alias="vivek "><div>delete</div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T18:06:54+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">karu</span></div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T18:06:56+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">wait</span></div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T18:07:03+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">tp karti ti kyar ni</span></div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T18:07:06+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">so rai gayu</span></div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T18:07:08+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">cool</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T18:07:13+0530" alias="vivek "><div>hmm</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T18:07:16+0530" alias="vivek "><div>COOL</div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T18:07:45+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">take pull</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T18:07:47+0530" alias="vivek "><div>ok</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T18:08:49+0530" alias="vivek "><div>done</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T18:09:52+0530" alias="vivek "><div>Are you making changes in story board</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T18:09:54+0530" alias="vivek "><div>?</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T18:10:35+0530" alias="vivek "><div> </div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T18:13:10+0530" alias="vivek "><div>Shall i push the code ?</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T18:13:16+0530" alias="vivek "><div> </div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T18:13:25+0530" alias="vivek "><div> </div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T18:14:01+0530" alias="vivek "><div> </div></message>
+<status type="idle" sender="karishma@zaptech-pc" time="2016-04-07T18:18:29+0530" alias="karishma"></status>
+<status type="available" sender="karishma@zaptech-pc" time="2016-04-07T18:26:29+0530" alias="karishma"></status>
+<message sender="karishma@zaptech-pc" time="2016-04-07T18:26:52+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T18:27:40+0530" alias="vivek "><div>Plese take pull from git</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T18:27:43+0530" alias="vivek "><div>please</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T18:27:49+0530" alias="vivek "><div> </div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T18:27:57+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T18:32:12+0530" alias="vivek "><div>my kart<br /><br />replace that paricular controller in story board<br /><br />from my changes</div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T18:32:53+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T18:33:03+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">mara ma nathi story board ma</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T18:33:07+0530" alias="vivek "><div>i have made changes in my kart controller in story board</div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T18:33:09+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">nirzar kare 6</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T18:33:13+0530" alias="vivek "><div>ok</div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T18:33:21+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">shopping list valu barabar 6</span></div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T18:33:22+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">?</span></div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T18:33:25+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">u check</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T18:33:29+0530" alias="vivek "><div>ok</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T18:34:34+0530" alias="vivek "><div>..</div></message>
+<status type="purple" time="2016-04-07T18:34:34+0530"><div><span style="font-family: Helvetica; font-size: 12pt;">Offering to send Simulator Screen Shot Apr 7, 2016, 6.34.18 PM.png to karishma</span></div></status>
+<status type="purple" time="2016-04-07T18:34:46+0530"><div><span style="font-family: Helvetica; font-size: 12pt;">Transfer of file Simulator Screen Shot Apr 7, 2016, 6.34.18 PM.png complete</span></div></status>
+<message sender="karishma@zaptech-pc" time="2016-04-07T18:35:21+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">hmm</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T18:35:22+0530" alias="vivek "><div>take every label near to image in serach</div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T18:35:26+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">nirzar kare 6</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T18:35:28+0530" alias="vivek "><div>search*</div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T18:35:29+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">changes</span></div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T18:35:36+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">e push karse code ma</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T18:35:39+0530" alias="vivek "><div>ok</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T18:40:51+0530" alias="vivek "><div>have you made changes in search controller<br /><br />?</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T18:41:00+0530" alias="vivek "><div>in strory board ?</div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T18:42:01+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">me no</span></div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T18:42:10+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">nirzar</span></div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T18:42:12+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">do</span></div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T18:42:20+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">km </span></div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T18:42:23+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">su thayu</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T18:54:33+0530" alias="vivek "><div>please take pull from git</div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T18:55:14+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T18:55:30+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T18:55:31+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">done</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T18:55:39+0530" alias="vivek "><div>ok </div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T19:45:37+0530" alias="vivek "><div>Hello</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T19:45:38+0530" alias="vivek "><div>6. Functionality for wallet and refer friends will be same as website . <br /></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T19:45:44+0530" alias="vivek "><div>Is this done</div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T19:46:00+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">no</span></div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-07T19:46:08+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">we vl do tommorow</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-07T19:46:16+0530" alias="vivek "><div>ok</div></message></chat>

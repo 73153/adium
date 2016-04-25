@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<chat xmlns="http://purl.org/net/ulf/ns/0.4-02" account="vivek@192.168.15.43" service="Jabber" adiumversion="1.5.10" buildid="7ad57fbf4c17">
+<event type="windowOpened" sender="vivek@192.168.15.43" time="2016-02-05T17:11:32+0530"></event>
+<message sender="vivek@192.168.15.43" time="2016-02-05T17:11:32+0530" alias="vivek "><div>Hi</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-05T17:12:30+0530" alias="vivek "><div>I are having problem in accessing the data from web service, Is you are making changes in it? </div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-05T17:12:37+0530" alias="vivek "><div>We*</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-05T17:12:53+0530" alias="vivek "><div>In Pantry Kart</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-05T17:12:54+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">which one?</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-05T17:13:09+0530" alias="vivek "><div>Whole web service stopped working.</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-05T17:13:31+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">i m creating new webservices</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-05T17:13:35+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">that too in local</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-05T17:13:39+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">nothing at server</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-05T17:13:45+0530" alias="vivek "><div>ok</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-05T17:13:55+0530" alias="vivek "><div>Now its working.</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-05T17:14:07+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-05T17:14:16+0530" alias="vivek "><div>But sometimes it is not giving the response at all.</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-05T17:14:27+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">may be net is slow</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-05T17:14:41+0530" alias="vivek "><div>ok, No Problem.</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-05T17:15:06+0530" alias="vivek "><div>We will manage at our side.</div></message>
+<event type="windowClosed" sender="vivek@192.168.15.43" time="2016-02-05T17:15:35+0530"></event></chat>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<chat xmlns="http://purl.org/net/ulf/ns/0.4-02" account="vivek@192.168.15.43" service="Jabber" adiumversion="1.5.10" buildid="7ad57fbf4c17">
+<event type="windowOpened" sender="vivek@192.168.15.43" time="2016-02-15T11:09:14+0530"></event>
+<message sender="vivek@192.168.15.43" time="2016-02-15T11:09:14+0530" alias="vivek "><div>Hi</div></message>
+<status type="away" sender="suyati@zaptech-pc" time="2016-02-15T11:09:15+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">I&apos;m not here right now</span></div></status>
+<status type="idle" sender="suyati@zaptech-pc" time="2016-02-15T11:09:15+0530" alias="suyati"></status>
+<status type="available" sender="suyati@zaptech-pc" time="2016-02-15T11:09:18+0530" alias="suyati"></status>
+<status type="online" sender="suyati@zaptech-pc" time="2016-02-15T11:09:18+0530" alias="suyati"></status>
+<message sender="vivek@192.168.15.43" time="2016-02-15T11:09:20+0530" alias="vivek "><div>Good morning</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-15T11:09:21+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">hi</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-15T11:09:24+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">gm</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-15T11:09:36+0530" alias="vivek "><div>How was your weekened?</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-15T11:09:55+0530" alias="vivek "><div>weekend*</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-15T11:10:02+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">it was good.. thanks.. how abt u?</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-15T11:10:13+0530" alias="vivek "><div>Me too good</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-15T11:11:48+0530" alias="vivek "><div>For the customercart.php, taking more time for execution. Please check your end is that so? </div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-15T11:12:15+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ya sure</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-15T11:13:03+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">actually i m working on that part for the issue when new user is not working for add to cart n all actions</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-15T11:13:28+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">will upload changes today and u will have to check it</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-15T11:13:39+0530" alias="vivek "><div>ok, not an issue.</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-15T11:13:42+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">cartActions.php will have the change</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-15T11:13:59+0530" alias="vivek "><div>ok</div></message>
+<status type="away" sender="suyati@zaptech-pc" time="2016-02-15T12:33:35+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">I&apos;m not here right now</span></div></status>
+<status type="idle" sender="suyati@zaptech-pc" time="2016-02-15T12:33:36+0530" alias="suyati"></status>
+<status type="available" sender="suyati@zaptech-pc" time="2016-02-15T12:34:12+0530" alias="suyati"></status>
+<status type="online" sender="suyati@zaptech-pc" time="2016-02-15T12:34:12+0530" alias="suyati"></status>
+<event type="windowClosed" sender="vivek@192.168.15.43" time="2016-02-15T12:40:49+0530"></event>
+<event type="windowOpened" sender="vivek@192.168.15.43" time="2016-02-15T12:41:07+0530"></event>
+<event type="windowClosed" sender="vivek@192.168.15.43" time="2016-02-15T12:42:11+0530"></event>
+<event type="windowOpened" sender="vivek@192.168.15.43" time="2016-02-15T12:42:23+0530"></event>
+<event type="windowClosed" sender="vivek@192.168.15.43" time="2016-02-15T12:43:05+0530"></event></chat>

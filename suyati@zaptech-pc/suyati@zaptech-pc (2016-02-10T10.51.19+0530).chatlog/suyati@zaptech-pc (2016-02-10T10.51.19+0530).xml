@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<chat xmlns="http://purl.org/net/ulf/ns/0.4-02" account="vivek@192.168.15.43" service="Jabber" adiumversion="1.5.10" buildid="7ad57fbf4c17">
+<event type="windowOpened" sender="vivek@192.168.15.43" time="2016-02-10T10:51:32+0530"></event>
+<message sender="vivek@192.168.15.43" time="2016-02-10T10:51:32+0530" alias="vivek "><div>Hi</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-10T10:51:36+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">hi</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-10T10:51:38+0530" alias="vivek "><div>Good morning</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-10T10:53:12+0530" alias="vivek "><div>cartAction web service not working , Please screen shot for your reference</div></message>
+<status type="purple" time="2016-02-10T10:53:12+0530"><div><span style="font-family: Helvetica; font-size: 12pt;">Offering to send Screen Shot 2016-02-10 at 10.52.22 AM.png to suyati</span></div></status>
+<status type="purple" time="2016-02-10T10:53:22+0530"><div><span style="font-family: Helvetica; font-size: 12pt;">Transfer of file Screen Shot 2016-02-10 at 10.52.22 AM.png complete</span></div></status>
+<message sender="vivek@192.168.15.43" time="2016-02-10T10:53:22+0530" alias="vivek "><div>check*</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-10T10:53:27+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-10T10:54:00+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">sku is wrong</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-10T10:54:06+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">i gave u correct sku</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-10T10:54:35+0530" alias="vivek "><div>please resnd</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-10T10:54:41+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok wait</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-10T10:54:57+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">5117922040                    </span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-10T10:55:03+0530" alias="vivek "><div>ok </div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-10T10:55:04+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">791</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-10T10:55:07+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">prod id</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-10T10:55:12+0530" alias="vivek "><div>ok</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-10T10:55:22+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">pls update in ur sheet</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-10T10:56:11+0530" alias="vivek "><div>ok</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-10T10:56:45+0530" alias="vivek "><div>Hi</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-10T10:57:24+0530" alias="vivek "><div>still not resloved please send the screen shot or filled parmeter updated xlsheet.</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-10T10:57:29+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-10T11:01:25+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">try with userid 40</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-10T11:01:30+0530" alias="vivek "><div>ok</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-10T11:05:01+0530" alias="vivek "><div>Now working</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-10T11:05:07+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-10T11:08:30+0530" alias="vivek "><div>Hi</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-10T11:09:15+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">hi</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-10T11:09:15+0530" alias="vivek "><div>customercart.php is a also not working, Please send me the parameter or check ur side.</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-10T11:09:21+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-10T11:15:02+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">hi</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-10T11:15:06+0530" alias="vivek "><div>Hi</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-10T11:15:30+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">can u create a new user from ur end?</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-10T11:15:38+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">to check if there is any issue</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-10T11:15:41+0530" alias="vivek "><div>yes just i have created</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-10T11:15:44+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">with any user</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-10T11:16:00+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">what is the user id u got?</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-10T11:16:08+0530" alias="vivek "><div>47</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-10T11:16:14+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-10T11:23:51+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">pls user 46 for now</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-10T11:24:02+0530" alias="vivek "><div>ok</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-10T11:24:06+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">i will check this case of new user, if it is working properly</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-10T11:24:38+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">you can use 2 prods: 790 - <span style="color: #4488aa;">5117917800</span>, 791 - <span style="color: #4488aa;">5117922040</span></span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-10T11:24:51+0530" alias="vivek "><div>ok</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-10T11:25:02+0530" alias="vivek "><div>Thanks</div></message>
+<status type="away" sender="suyati@zaptech-pc" time="2016-02-10T11:47:19+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">I&apos;m not here right now</span></div></status>
+<status type="idle" sender="suyati@zaptech-pc" time="2016-02-10T11:47:19+0530" alias="suyati"></status>
+<status type="available" sender="suyati@zaptech-pc" time="2016-02-10T11:47:55+0530" alias="suyati"></status>
+<status type="online" sender="suyati@zaptech-pc" time="2016-02-10T11:47:55+0530" alias="suyati"></status>
+<status type="away" sender="suyati@zaptech-pc" time="2016-02-10T13:34:34+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">I&apos;m not here right now</span></div></status>
+<status type="idle" sender="suyati@zaptech-pc" time="2016-02-10T13:34:34+0530" alias="suyati"></status>
+<status type="available" sender="suyati@zaptech-pc" time="2016-02-10T13:37:19+0530" alias="suyati"></status>
+<status type="online" sender="suyati@zaptech-pc" time="2016-02-10T13:37:19+0530" alias="suyati"></status>
+<status type="away" sender="suyati@zaptech-pc" time="2016-02-10T13:42:20+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">I&apos;m not here right now</span></div></status>
+<status type="idle" sender="suyati@zaptech-pc" time="2016-02-10T13:42:20+0530" alias="suyati"></status>
+<status type="available" sender="suyati@zaptech-pc" time="2016-02-10T13:52:53+0530" alias="suyati"></status>
+<status type="online" sender="suyati@zaptech-pc" time="2016-02-10T13:52:53+0530" alias="suyati"></status>
+<status type="away" sender="suyati@zaptech-pc" time="2016-02-10T13:57:52+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">I&apos;m not here right now</span></div></status>
+<status type="idle" sender="suyati@zaptech-pc" time="2016-02-10T13:57:52+0530" alias="suyati"></status>
+<status type="available" sender="suyati@zaptech-pc" time="2016-02-10T14:15:46+0530" alias="suyati"></status>
+<status type="online" sender="suyati@zaptech-pc" time="2016-02-10T14:15:46+0530" alias="suyati"></status>
+<message sender="vivek@192.168.15.43" time="2016-02-10T14:17:08+0530" alias="vivek "><div>Hi</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-10T14:17:12+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">hi</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-10T14:18:41+0530" alias="vivek "><div>for cartActions we need more parameters in response like quantity, weight, imageurl and price.</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-10T14:19:53+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok i will check and add</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-10T14:21:03+0530" alias="vivek "><div>and also in MyCart web service response  also we need the same 4 parameters</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-10T14:21:10+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-10T14:21:34+0530" alias="vivek "><div>price<br /><br />weight<br /><br />qty<br /><br />image url</div></message>
+<event type="windowClosed" sender="vivek@192.168.15.43" time="2016-02-10T14:46:51+0530"></event></chat>

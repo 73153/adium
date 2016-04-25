@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<chat xmlns="http://purl.org/net/ulf/ns/0.4-02" account="vivek@192.168.15.43" service="Jabber" adiumversion="1.5.10" buildid="7ad57fbf4c17">
+<event type="windowOpened" sender="vivek@192.168.15.43" time="2016-02-05T18:43:22+0530"></event>
+<message sender="suyati@zaptech-pc" time="2016-02-05T18:43:21+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">hello</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-05T18:43:30+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">pls send me ur zapserver mail id</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-05T18:43:41+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">i m mailing updated sheet for pantrykart</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-05T18:46:00+0530" alias="vivek "><div>ok</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-05T18:46:07+0530" alias="vivek "><div><a href="mailto:vivek@zapserver.com">vivek@zapserver.com</a></div></message>
+<status type="away" sender="suyati@zaptech-pc" time="2016-02-05T19:18:52+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">I&apos;m not here right now</span></div></status>
+<status type="idle" sender="suyati@zaptech-pc" time="2016-02-05T19:18:52+0530" alias="suyati"></status></chat>

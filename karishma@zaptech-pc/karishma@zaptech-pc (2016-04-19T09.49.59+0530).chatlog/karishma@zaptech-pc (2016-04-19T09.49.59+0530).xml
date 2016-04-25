@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<chat xmlns="http://purl.org/net/ulf/ns/0.4-02" account="vivek@192.168.15.43" service="Jabber" adiumversion="1.5.10.2" buildid="a23057ce854d">
+<event type="windowOpened" sender="vivek@192.168.15.43" time="2016-04-19T09:50:02+0530"></event>
+<message sender="vivek@192.168.15.43" time="2016-04-19T09:50:02+0530" alias="vivek "><div>Hello</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-19T09:50:06+0530" alias="vivek "><div>Good Morning</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-19T09:50:13+0530" alias="vivek "><div>Please take pull from git</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-19T09:50:42+0530" alias="vivek "><div>An please check whether the place request issue is solved now in device </div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-19T09:51:00+0530" alias="vivek "><div>And please let me know ASAP, Thanks</div></message>
+<event type="windowClosed" sender="vivek@192.168.15.43" time="2016-04-19T09:51:03+0530"></event></chat>

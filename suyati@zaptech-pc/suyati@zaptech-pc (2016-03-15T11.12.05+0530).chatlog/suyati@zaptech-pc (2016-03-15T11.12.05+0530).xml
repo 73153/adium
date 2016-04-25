@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<chat xmlns="http://purl.org/net/ulf/ns/0.4-02" account="vivek@192.168.15.43" service="Jabber" adiumversion="1.5.10.2" buildid="a23057ce854d">
+<event type="windowOpened" sender="vivek@192.168.15.43" time="2016-03-15T11:12:07+0530"></event>
+<message sender="vivek@192.168.15.43" time="2016-03-15T11:12:07+0530" alias="vivek "><div>Hello</div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-15T11:12:12+0530" alias="vivek "><div>Good Morning</div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-15T11:15:02+0530" alias="vivek "><div>For the payment web service, In the yesterday meeting it was discussed to implement in the local we service and We have to use the <span style="font-family: Helvetica; font-size: 12pt; font-weight: bold;">AES</span> Algorithm for encryption and Decryption for the data and vice versa. For the security purpose.</div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-15T11:16:25+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">let bhumik come</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-15T11:16:29+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">i will discuss with him</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-15T11:17:25+0530" alias="vivek "><div>ok</div></message>
+<status type="away" sender="suyati@zaptech-pc" time="2016-03-15T13:35:01+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">I&apos;m not here right now</span></div></status>
+<status type="idle" sender="suyati@zaptech-pc" time="2016-03-15T13:35:01+0530" alias="suyati"></status>
+<status type="available" sender="suyati@zaptech-pc" time="2016-03-15T13:48:31+0530" alias="suyati"></status>
+<status type="online" sender="suyati@zaptech-pc" time="2016-03-15T13:48:31+0530" alias="suyati"></status>
+<status type="away" sender="suyati@zaptech-pc" time="2016-03-15T13:53:31+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">I&apos;m not here right now</span></div></status>
+<status type="idle" sender="suyati@zaptech-pc" time="2016-03-15T13:53:31+0530" alias="suyati"></status>
+<status type="available" sender="suyati@zaptech-pc" time="2016-03-15T13:59:04+0530" alias="suyati"></status>
+<status type="online" sender="suyati@zaptech-pc" time="2016-03-15T13:59:04+0530" alias="suyati"></status>
+<status type="away" sender="suyati@zaptech-pc" time="2016-03-15T14:49:22+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">I&apos;m not here right now</span></div></status>
+<status type="idle" sender="suyati@zaptech-pc" time="2016-03-15T14:49:24+0530" alias="suyati"></status>
+<status type="available" sender="suyati@zaptech-pc" time="2016-03-15T14:54:03+0530" alias="suyati"></status>
+<status type="online" sender="suyati@zaptech-pc" time="2016-03-15T14:54:03+0530" alias="suyati"></status>
+<message sender="suyati@zaptech-pc" time="2016-03-15T15:52:04+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">hello</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-15T15:52:18+0530" alias="vivek "><div>hello</div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-15T15:52:44+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">how are you going to use AES algorithm</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-15T15:52:52+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">can u pls give me some details abt it</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-15T15:53:52+0530" alias="vivek "><div>plz concern with bhumik</div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-15T15:54:52+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">yes i asked him, but i need to confirm the data format that u will encrypt and send which i have to get decrypted at my end</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-15T15:58:53+0530" alias="vivek "><div>arjun will explain</div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-15T15:59:01+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<status type="away" sender="suyati@zaptech-pc" time="2016-03-15T16:30:29+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">I&apos;m not here right now</span></div></status>
+<status type="idle" sender="suyati@zaptech-pc" time="2016-03-15T16:30:29+0530" alias="suyati"></status>
+<status type="available" sender="suyati@zaptech-pc" time="2016-03-15T16:42:32+0530" alias="suyati"></status>
+<status type="online" sender="suyati@zaptech-pc" time="2016-03-15T16:42:32+0530" alias="suyati"></status>
+<event type="windowClosed" sender="vivek@192.168.15.43" time="2016-03-15T18:57:46+0530"></event></chat>

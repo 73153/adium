@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<chat xmlns="http://purl.org/net/ulf/ns/0.4-02" account="vivek@192.168.15.43" service="Jabber" adiumversion="1.5.10" buildid="7ad57fbf4c17">
+<event type="windowOpened" sender="vivek@192.168.15.43" time="2016-01-21T17:44:02+0530"></event>
+<message sender="vivek@192.168.15.43" time="2016-01-21T17:44:02+0530" alias="vivek "><div>Hi</div></message>
+<message sender="vivek@192.168.15.43" time="2016-01-21T17:44:08+0530" alias="vivek "><div>one more request </div></message>
+<message sender="vivek@192.168.15.43" time="2016-01-21T17:44:24+0530" alias="vivek "><div>When the user is getting Login</div></message>
+<message sender="suyati@zaptech-pc" time="2016-01-21T17:44:40+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">tell me</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-01-21T17:44:44+0530" alias="vivek "><div>That time we need the user detail</div></message>
+<message sender="vivek@192.168.15.43" time="2016-01-21T17:44:49+0530" alias="vivek "><div>for example</div></message>
+<message sender="suyati@zaptech-pc" time="2016-01-21T17:44:50+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-01-21T17:44:51+0530" alias="vivek "><div>Name</div></message>
+<message sender="vivek@192.168.15.43" time="2016-01-21T17:44:54+0530" alias="vivek "><div>email</div></message>
+<message sender="suyati@zaptech-pc" time="2016-01-21T17:45:01+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">give me some time</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-01-21T17:45:04+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">i will update it</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-01-21T17:45:12+0530" alias="vivek "><div>ok no problem</div></message>
+<event type="windowClosed" sender="vivek@192.168.15.43" time="2016-01-21T17:45:53+0530"></event>
+<event type="windowOpened" sender="vivek@192.168.15.43" time="2016-01-21T17:47:16+0530"></event>
+<message sender="vivek@192.168.15.43" time="2016-01-21T17:47:26+0530" alias="vivek "><div>Please also send userid</div></message>
+<event type="windowClosed" sender="vivek@192.168.15.43" time="2016-01-21T17:47:32+0530"></event>
+<event type="windowOpened" sender="vivek@192.168.15.43" time="2016-01-21T17:48:47+0530"></event>
+<message sender="suyati@zaptech-pc" time="2016-01-21T17:48:47+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<event type="windowClosed" sender="vivek@192.168.15.43" time="2016-01-21T17:49:08+0530"></event>
+<event type="windowOpened" sender="vivek@192.168.15.43" time="2016-01-21T17:57:16+0530"></event>
+<message sender="suyati@zaptech-pc" time="2016-01-21T17:57:16+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">hello</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-01-21T17:57:20+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">can u pls check</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-01-21T17:57:26+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">i have added userdetails</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-01-21T17:57:28+0530" alias="vivek "><div>ok</div></message>
+<event type="windowClosed" sender="vivek@192.168.15.43" time="2016-01-21T17:57:34+0530"></event>
+<event type="windowOpened" sender="vivek@192.168.15.43" time="2016-01-21T17:58:04+0530"></event>
+<message sender="vivek@192.168.15.43" time="2016-01-21T17:58:10+0530" alias="vivek "><div>done thanks</div></message>
+<event type="windowClosed" sender="vivek@192.168.15.43" time="2016-01-21T17:58:10+0530"></event>
+<event type="windowOpened" sender="vivek@192.168.15.43" time="2016-01-21T17:58:26+0530"></event>
+<message sender="suyati@zaptech-pc" time="2016-01-21T17:58:27+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<event type="windowClosed" sender="vivek@192.168.15.43" time="2016-01-21T17:58:28+0530"></event>
+<event type="windowOpened" sender="vivek@192.168.15.43" time="2016-01-21T17:58:38+0530"></event>
+<message sender="suyati@zaptech-pc" time="2016-01-21T17:58:38+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">hello</span></div></message>
+<event type="windowClosed" sender="vivek@192.168.15.43" time="2016-01-21T17:58:40+0530"></event>
+<event type="windowOpened" sender="vivek@192.168.15.43" time="2016-01-21T17:58:47+0530"></event>
+<message sender="suyati@zaptech-pc" time="2016-01-21T17:58:47+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">dashboard prods ws is also ready</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-01-21T17:59:07+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">you can simply access it by web/dashboardProductList.php</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-01-21T17:59:35+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">it is having category names and prod details that are to displayed after zipcode validation</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-01-21T18:00:51+0530" alias="vivek "><div>Hi</div></message>
+<message sender="vivek@192.168.15.43" time="2016-01-21T18:01:03+0530" alias="vivek "><div>which parameters we need to send</div></message>
+<message sender="suyati@zaptech-pc" time="2016-01-21T18:01:11+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">no params</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-01-21T18:01:16+0530" alias="vivek "><div>web/dashboardProductList.php</div></message>
+<message sender="suyati@zaptech-pc" time="2016-01-21T18:01:17+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">just call it</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-01-21T18:01:57+0530" alias="vivek "><div>I think there is some thing wrong</div></message>
+<message sender="vivek@192.168.15.43" time="2016-01-21T18:02:05+0530" alias="vivek "><div>please check from ur end</div></message>
+<message sender="suyati@zaptech-pc" time="2016-01-21T18:02:26+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok checking</span></div></message>
+<event type="windowClosed" sender="vivek@192.168.15.43" time="2016-01-21T18:02:30+0530"></event>
+<event type="windowOpened" sender="vivek@192.168.15.43" time="2016-01-21T18:02:58+0530"></event>
+<message sender="vivek@192.168.15.43" time="2016-01-21T18:03:18+0530" alias="vivek "><div>screen shots  i am sending pls check.</div></message>
+<status type="purple" time="2016-01-21T18:03:21+0530"><div><span style="font-family: Helvetica; font-size: 12pt;">Offering to send Screen Shot 2016-01-21 at 6.02.38 PM.png to suyati</span></div></status>
+<status type="purple" time="2016-01-21T18:03:37+0530"><div><span style="font-family: Helvetica; font-size: 12pt;">Transfer of file Screen Shot 2016-01-21 at 6.02.38 PM.png complete</span></div></status>
+<message sender="suyati@zaptech-pc" time="2016-01-21T18:04:23+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">checking</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-01-21T18:04:24+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">5mins</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-01-21T18:04:30+0530" alias="vivek "><div>ok</div></message>
+<event type="windowClosed" sender="vivek@192.168.15.43" time="2016-01-21T18:14:28+0530"></event></chat>

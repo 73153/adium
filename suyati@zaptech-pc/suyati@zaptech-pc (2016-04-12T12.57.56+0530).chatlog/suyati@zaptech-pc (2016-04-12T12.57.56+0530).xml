@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<chat xmlns="http://purl.org/net/ulf/ns/0.4-02" account="vivek@192.168.15.43" service="Jabber" adiumversion="1.5.10.2" buildid="a23057ce854d">
+<event type="windowOpened" sender="vivek@192.168.15.43" time="2016-04-12T12:58:06+0530"></event>
+<message sender="vivek@192.168.15.43" time="2016-04-12T12:58:06+0530" alias="vivek "><div>Hello</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-12T12:58:11+0530" alias="vivek "><div>Good Morning</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-12T12:58:18+0530" alias="vivek "><div>sorry afternoon</div></message>
+<status type="away" sender="suyati@zaptech-pc" time="2016-04-12T13:02:59+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">I&apos;m not here right now</span></div></status>
+<status type="idle" sender="suyati@zaptech-pc" time="2016-04-12T13:03:00+0530" alias="suyati"></status>
+<status type="available" sender="suyati@zaptech-pc" time="2016-04-12T13:04:18+0530" alias="suyati"></status>
+<status type="online" sender="suyati@zaptech-pc" time="2016-04-12T13:04:18+0530" alias="suyati"></status>
+<message sender="suyati@zaptech-pc" time="2016-04-12T13:06:03+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">hello</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-04-12T13:06:07+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">good afternoon</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-12T13:06:24+0530" alias="vivek "><div>How are you ?</div></message>
+<message sender="suyati@zaptech-pc" time="2016-04-12T13:06:31+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">fine thank you</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-04-12T13:06:35+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">how abt u?</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-12T13:06:47+0530" alias="vivek "><div>I am good</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-12T13:07:05+0530" alias="vivek "><div>What time you are having lunch?</div></message>
+<message sender="suyati@zaptech-pc" time="2016-04-12T13:07:54+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">1.30</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-12T13:07:57+0530" alias="vivek "><div>ok</div></message>
+<message sender="suyati@zaptech-pc" time="2016-04-12T13:08:08+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">why?</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-12T13:08:15+0530" alias="vivek "><div>simply</div></message>
+<message sender="suyati@zaptech-pc" time="2016-04-12T13:08:30+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-12T13:09:20+0530" alias="vivek "><div>I am having one issue in Pantry Kart, for the kart item when you add the products</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-12T13:09:43+0530" alias="vivek "><div>and then delete all the products from cart</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-12T13:10:30+0530" alias="vivek "><div>then searchprod.php when you call the prod_in_cart is not getting reflected, in searchprod.php</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-12T13:11:05+0530" alias="vivek "><div>for the last product which you deleted </div></message>
+<message sender="suyati@zaptech-pc" time="2016-04-12T13:11:13+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">hmm</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-04-12T13:11:14+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-04-12T13:11:19+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">i will check it</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-12T13:11:32+0530" alias="vivek "><div>no issue check it after lunch</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-12T13:13:31+0530" alias="vivek "><div>Please have lunch then start work, Not a major issue</div></message>
+<message sender="suyati@zaptech-pc" time="2016-04-12T13:13:58+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">yaa ok</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-12T13:30:39+0530" alias="vivek "><div>Ohh sorry it was my mistake</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-12T13:30:56+0530" alias="vivek "><div>This issue i need to handle from my side</div></message>
+<message sender="suyati@zaptech-pc" time="2016-04-12T13:31:04+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok.. :)</span></div></message>
+<status type="away" sender="suyati@zaptech-pc" time="2016-04-12T13:41:08+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">I&apos;m not here right now</span></div></status>
+<status type="idle" sender="suyati@zaptech-pc" time="2016-04-12T13:41:10+0530" alias="suyati"></status>
+<status type="available" sender="suyati@zaptech-pc" time="2016-04-12T14:09:19+0530" alias="suyati"></status>
+<status type="online" sender="suyati@zaptech-pc" time="2016-04-12T14:09:19+0530" alias="suyati"></status>
+<status type="idle" sender="suyati@zaptech-pc" time="2016-04-12T14:14:22+0530" alias="suyati"></status>
+<status type="away" sender="suyati@zaptech-pc" time="2016-04-12T14:14:24+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">I&apos;m not here right now</span></div></status>
+<status type="available" sender="suyati@zaptech-pc" time="2016-04-12T14:18:52+0530" alias="suyati"></status>
+<status type="online" sender="suyati@zaptech-pc" time="2016-04-12T14:18:52+0530" alias="suyati"></status>
+<status type="away" sender="suyati@zaptech-pc" time="2016-04-12T16:30:37+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">I&apos;m not here right now</span></div></status>
+<status type="idle" sender="suyati@zaptech-pc" time="2016-04-12T16:30:38+0530" alias="suyati"></status>
+<status type="available" sender="suyati@zaptech-pc" time="2016-04-12T16:48:53+0530" alias="suyati"></status>
+<status type="online" sender="suyati@zaptech-pc" time="2016-04-12T16:48:53+0530" alias="suyati"></status>
+<status type="offline" sender="suyati@zaptech-pc" time="2016-04-12T17:06:50+0530" alias="suyati"></status>
+<status type="online" sender="suyati@zaptech-pc" time="2016-04-12T17:10:07+0530" alias="suyati"></status>
+<status type="away" sender="suyati@zaptech-pc" time="2016-04-12T19:04:18+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">I&apos;m not here right now</span></div></status>
+<status type="idle" sender="suyati@zaptech-pc" time="2016-04-12T19:04:18+0530" alias="suyati"></status>
+<status type="available" sender="suyati@zaptech-pc" time="2016-04-12T19:04:43+0530" alias="suyati"></status>
+<status type="online" sender="suyati@zaptech-pc" time="2016-04-12T19:04:43+0530" alias="suyati"></status>
+<status type="offline" sender="suyati@zaptech-pc" time="2016-04-12T19:11:02+0530" alias="suyati"></status>
+<event type="windowClosed" sender="vivek@192.168.15.43" time="2016-04-12T19:45:49+0530"></event></chat>

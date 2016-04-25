@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<chat xmlns="http://purl.org/net/ulf/ns/0.4-02" account="vivek@192.168.15.43" service="Jabber" adiumversion="1.5.10" buildid="7ad57fbf4c17">
+<event type="windowOpened" sender="vivek@192.168.15.43" time="2016-02-25T11:54:08+0530"></event>
+<message sender="vivek@192.168.15.43" time="2016-02-25T11:54:08+0530" alias="vivek "><div>Hello</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-25T11:54:11+0530" alias="vivek "><div>Good morning</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-25T11:54:40+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">hello</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-25T11:54:47+0530" alias="vivek "><div>Please send the url and parameters for the profile.</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-25T11:55:06+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">i have sent all details in mail</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-25T11:55:34+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">u have sheet?</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-25T11:55:39+0530" alias="vivek "><div>yes</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-25T11:55:40+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">check 15,16 ws</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-25T11:55:47+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">    	 	 	 	 	 	 	     	 	 		Customer Account Details 	     </span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-25T11:55:50+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">    	 	 	 	 	 	 	     	 	 		Update Customer Account Details 	     </span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-25T11:56:16+0530" alias="vivek "><div>customerInfo.php<br />this one</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-25T11:56:20+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">yes</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-25T11:56:24+0530" alias="vivek "><div>ok sure</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-25T11:56:30+0530" alias="vivek "><div>thanks</div></message>
+<status type="disconnected" sender="vivek@192.168.15.43" time="2016-02-25T12:23:40+0530" alias="vivek "><div>You have disconnected</div></status>
+<status type="connected" time="2016-02-25T12:23:55+0530"><div>You have connected</div></status>
+<status type="away" sender="suyati@zaptech-pc" time="2016-02-25T13:36:56+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">I&apos;m not here right now</span></div></status>
+<status type="idle" sender="suyati@zaptech-pc" time="2016-02-25T13:36:56+0530" alias="suyati"></status>
+<status type="available" sender="suyati@zaptech-pc" time="2016-02-25T14:03:53+0530" alias="suyati"></status>
+<status type="online" sender="suyati@zaptech-pc" time="2016-02-25T14:03:53+0530" alias="suyati"></status>
+<status type="away" sender="suyati@zaptech-pc" time="2016-02-25T14:16:20+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">I&apos;m not here right now</span></div></status>
+<status type="idle" sender="suyati@zaptech-pc" time="2016-02-25T14:16:20+0530" alias="suyati"></status>
+<status type="available" sender="suyati@zaptech-pc" time="2016-02-25T14:21:17+0530" alias="suyati"></status>
+<status type="online" sender="suyati@zaptech-pc" time="2016-02-25T14:21:17+0530" alias="suyati"></status>
+<event type="windowClosed" sender="vivek@192.168.15.43" time="2016-02-25T15:03:27+0530"></event></chat>

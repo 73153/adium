@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<chat xmlns="http://purl.org/net/ulf/ns/0.4-02" account="vivek@192.168.15.43" service="Jabber" adiumversion="1.5.10" buildid="7ad57fbf4c17">
+<event type="windowOpened" sender="vivek@192.168.15.43" time="2016-02-05T11:33:45+0530"></event>
+<message sender="vivek@192.168.15.43" time="2016-02-05T11:33:45+0530" alias="vivek "><div>Hi</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-05T11:33:50+0530" alias="vivek "><div>Good Morning</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-05T11:33:58+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">hello gudmorning</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-05T11:34:33+0530" alias="vivek "><div> <a href="http://216.55.169.45/~pantrykart/master/web/topProductsPerCategoryList.php">http://216.55.169.45/~pantrykart/master/web/topProductsPerCategoryList.php</a></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-05T11:34:46+0530" alias="vivek "><div>this url is taking time to execute.</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-05T11:35:05+0530" alias="vivek "><div>cat_id=35 </div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-05T11:35:09+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">checking</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-05T11:35:11+0530" alias="vivek "><div>ok</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-05T11:35:59+0530" alias="vivek "><div>And other web service is executing fast.</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-05T11:36:16+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-05T11:36:50+0530" alias="suyati"><div><span style="color: #000000; font-family: Helvetica; font-size: 12pt;">Loading time:</span><span style="color: #000000; font-family: Helvetica;"><span style="font-size: 14pt;">57424ms</span></span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-05T11:37:28+0530" alias="vivek "><div>I think its checking all the categories for getting the top products</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-05T11:37:34+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">yes</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-05T11:37:38+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok wait</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-05T11:37:42+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">i will change the query</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-05T11:37:46+0530" alias="vivek "><div>ok</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-05T11:37:50+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">give me some time</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-05T11:38:10+0530" alias="vivek "><div>Ok no issue, Take your time. And thanks for your time.</div></message>
+<event type="windowClosed" sender="vivek@192.168.15.43" time="2016-02-05T11:38:14+0530"></event>
+<event type="windowOpened" sender="vivek@192.168.15.43" time="2016-02-05T11:38:48+0530"></event>
+<message sender="suyati@zaptech-pc" time="2016-02-05T11:38:48+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok..</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-05T11:38:59+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">i m working on pantrykart cart ws today</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-05T11:39:17+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">check all other ws and let me know if any changes needed</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-05T11:39:29+0530" alias="vivek "><div>ok</div></message>
+<event type="windowClosed" sender="vivek@192.168.15.43" time="2016-02-05T11:39:53+0530"></event></chat>

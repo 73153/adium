@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<chat xmlns="http://purl.org/net/ulf/ns/0.4-02" account="vivek@192.168.15.43" service="Jabber" adiumversion="1.5.10.2" buildid="a23057ce854d">
+<event type="windowOpened" sender="vivek@192.168.15.43" time="2016-04-19T09:24:55+0530"></event>
+<message sender="karishma@zaptech-pc" time="2016-04-18T18:20:32+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-18T18:20:35+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">by</span></div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-18T18:24:53+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">hi</span></div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-18T19:32:58+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">place request still issue so build send nai kari</span></div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-18T19:33:17+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">take pull the start work</span></div></message>
+<event type="windowClosed" sender="vivek@192.168.15.43" time="2016-04-19T09:27:50+0530"></event></chat>

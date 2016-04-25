@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<chat xmlns="http://purl.org/net/ulf/ns/0.4-02" account="vivek@192.168.15.43" service="Jabber" adiumversion="1.5.10" buildid="7ad57fbf4c17">
+<event type="windowOpened" sender="vivek@192.168.15.43" time="2016-01-20T12:11:15+0530"></event>
+<message sender="vivek@192.168.15.43" time="2016-01-20T12:11:15+0530" alias="vivek "><div>Hi</div></message>
+<message sender="vivek@192.168.15.43" time="2016-01-20T12:11:19+0530" alias="vivek "><div>Good Morning</div></message>
+<message sender="vivek@192.168.15.43" time="2016-01-20T12:11:34+0530" alias="vivek "><div>I am woking on Pantry Kart Project</div></message>
+<message sender="suyati@zaptech-pc" time="2016-01-20T12:11:35+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">gudmorning</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-01-20T12:11:38+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-01-20T12:12:21+0530" alias="vivek "><div>So please provide me the one demo complete URl for checking the response in RESt Client.</div></message>
+<message sender="vivek@192.168.15.43" time="2016-01-20T12:12:31+0530" alias="vivek "><div>categorySub.php<br /></div></message>
+<message sender="vivek@192.168.15.43" time="2016-01-20T12:12:46+0530" alias="vivek "><div>But i  dont have the beginning URl</div></message>
+<message sender="suyati@zaptech-pc" time="2016-01-20T12:12:59+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">have you taken a pull for pantrykart proj in ur local?</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-01-20T12:13:36+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">i mean do u have a clone for proj in local</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-01-20T12:13:45+0530" alias="vivek "><div>I am in iPhone app.</div></message>
+<message sender="suyati@zaptech-pc" time="2016-01-20T12:14:14+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">wait</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-01-20T12:14:18+0530" alias="vivek "><div>ok</div></message>
+<event type="windowClosed" sender="vivek@192.168.15.43" time="2016-01-20T12:15:30+0530"></event>
+<event type="windowOpened" sender="vivek@192.168.15.43" time="2016-01-20T12:22:51+0530"></event>
+<message sender="vivek@192.168.15.43" time="2016-01-20T12:22:54+0530" alias="vivek "><div>Hi</div></message>
+<message sender="suyati@zaptech-pc" time="2016-01-20T12:23:05+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">hi</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-01-20T12:23:05+0530" alias="vivek "><div>Please provide me the IP address</div></message>
+<message sender="vivek@192.168.15.43" time="2016-01-20T12:23:14+0530" alias="vivek "><div>For the URL.</div></message>
+<message sender="suyati@zaptech-pc" time="2016-01-20T12:23:39+0530" alias="suyati"><div><a href="http://192.168.15.190/pantrykart/web/categorySub.php?cat_id=2" style="font-family: Helvetica; font-size: 12pt;">http://192.168.15.190/pantrykart/web/categorySub.php?cat_id=2</a></div></message>
+<message sender="vivek@192.168.15.43" time="2016-01-20T12:23:45+0530" alias="vivek "><div>ok thanks</div></message>
+<message sender="suyati@zaptech-pc" time="2016-01-20T12:23:47+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">this is my local</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-01-20T12:24:00+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">on server it is not working due to permission issue</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-01-20T12:24:09+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">i have asked sarfaraz to check it</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-01-20T12:24:20+0530" alias="vivek "><div>ok no problem.</div></message>
+<message sender="vivek@192.168.15.43" time="2016-01-20T12:24:48+0530" alias="vivek "><div>But, Please let me know once it is working.</div></message>
+<event type="windowClosed" sender="vivek@192.168.15.43" time="2016-01-20T12:24:50+0530"></event>
+<event type="windowOpened" sender="vivek@192.168.15.43" time="2016-01-20T12:24:53+0530"></event>
+<message sender="suyati@zaptech-pc" time="2016-01-20T12:24:53+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<event type="windowClosed" sender="vivek@192.168.15.43" time="2016-01-20T12:29:58+0530"></event>
+<event type="windowOpened" sender="vivek@192.168.15.43" time="2016-01-20T12:38:20+0530"></event>
+<event type="windowClosed" sender="vivek@192.168.15.43" time="2016-01-20T12:38:33+0530"></event></chat>

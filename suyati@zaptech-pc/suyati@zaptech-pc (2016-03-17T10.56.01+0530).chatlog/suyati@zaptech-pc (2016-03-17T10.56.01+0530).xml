@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<chat xmlns="http://purl.org/net/ulf/ns/0.4-02" account="vivek@192.168.15.43" service="Jabber" adiumversion="1.5.10.2" buildid="a23057ce854d">
+<event type="windowOpened" sender="vivek@192.168.15.43" time="2016-03-17T10:56:03+0530"></event>
+<message sender="vivek@192.168.15.43" time="2016-03-17T10:56:03+0530" alias="vivek "><div>Hello</div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-17T10:56:09+0530" alias="vivek "><div>Good morning</div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-17T10:56:26+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">Hello.. Gudmorning</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-17T10:56:41+0530" alias="vivek "><div>for <a href="http://www.mycampusgenie.com/web/categoryAssignedProdList.php">http://www.mycampusgenie.com/web/categoryAssignedProdList.php</a></div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-17T10:56:52+0530" alias="vivek "><div>Please check the response</div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-17T10:56:59+0530" alias="vivek "><div>catid=379</div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-17T10:57:03+0530" alias="vivek "><div>sorry</div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-17T10:57:10+0530" alias="vivek "><div>userid=379</div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-17T10:57:15+0530" alias="vivek "><div>pageno=1</div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-17T10:57:19+0530" alias="vivek "><div>catid=6</div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-17T10:57:28+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-17T10:57:31+0530" alias="vivek "><div>with this parameters</div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-17T10:59:50+0530" alias="vivek "><div>I am gettting</div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-17T10:59:50+0530" alias="vivek "><div>&lt;br /&gt;<br />&lt;b&gt;Fatal error&lt;/b&gt;:  Call to a member function setFinalPrice() on a non-object in <br />&lt;b&gt;/home/mycampusgenie/public_html/app/code/core/Mage/Sales/Model/Quote/Item/Abstract.php&lt;/b&gt; on line <br />&lt;b&gt;89&lt;/b&gt;<br />&lt;br /&gt;</div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-17T11:00:08+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">checking</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-17T11:00:14+0530" alias="vivek "><div>ok</div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-17T11:03:43+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">who created this user 379?</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-17T11:04:02+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">required fields are not filled up</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-17T11:04:20+0530" alias="vivek "><div>Which are required fields?</div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-17T11:04:34+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">how did u create this user?</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-17T11:04:51+0530" alias="vivek "><div>by register web service</div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-17T11:04:54+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-17T11:05:00+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">i m deleting this user</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-17T11:05:00+0530" alias="vivek "><div>and its is getting login also</div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-17T11:05:07+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">pls create a new user</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-17T11:05:18+0530" alias="vivek "><div>also check for userid=372</div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-17T11:05:19+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">and let me check if the register ws is working properly</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-17T11:05:21+0530" alias="vivek "><div>same issue</div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-17T11:05:29+0530" alias="vivek "><div>ok</div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-17T11:05:39+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">same for this user</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-17T11:05:50+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">details are not complete</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-17T11:06:15+0530" alias="vivek "><div>please also send the required fields key&apos;s</div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-17T11:06:58+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">what parameters are you sending for register ws?</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-17T11:07:06+0530" alias="vivek "><div>one min</div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-17T11:08:51+0530" alias="vivek "><div>customerRegistration.php</div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-17T11:08:58+0530" alias="vivek "><div>email</div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-17T11:09:01+0530" alias="vivek "><div>fname</div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-17T11:09:04+0530" alias="vivek "><div>lname</div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-17T11:09:07+0530" alias="vivek "><div>pass</div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-17T11:09:10+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-17T11:09:15+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">that seems fine</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-17T11:09:15+0530" alias="vivek "><div>this are the parameters</div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-17T11:09:19+0530" alias="vivek "><div>ok</div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-17T11:09:35+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">pls register a new user and send me the id u get</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-17T11:09:40+0530" alias="vivek "><div>ok</div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-17T11:10:21+0530" alias="vivek "><div>customerid = 382;<br />    msg = &quot;Successful login.&quot;;<br />    status = 1;</div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-17T11:10:33+0530" alias="vivek "><div>username:<a href="mailto:vivek@gmail.com">vivek@gmail.com</a></div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-17T11:10:37+0530" alias="vivek "><div>pass:-123456</div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-17T11:10:38+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">yes this seems fine</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-17T11:10:46+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">is there any other ws </span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-17T11:10:49+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">which u used</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-17T11:10:58+0530" alias="vivek "><div>no</div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-17T11:11:00+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">which made fname and lname blank</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-17T11:11:19+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">can u pls check add to cart a product for a category</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-17T11:11:31+0530" alias="vivek "><div>ok</div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-17T11:11:31+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">and then check categoryassigned product list</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-17T11:11:35+0530" alias="vivek "><div>ok</div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-17T11:12:52+0530" alias="vivek "><div>Now its working fine </div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-17T11:12:58+0530" alias="vivek "><div>with 382</div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-17T11:13:18+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">may be some other ws is making the user fname/lname blank</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-17T11:13:30+0530" alias="vivek "><div>ohh</div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-17T11:13:38+0530" alias="vivek "><div>i will check from my side</div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-17T11:13:42+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<status type="away" sender="suyati@zaptech-pc" time="2016-03-17T11:16:46+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">I&apos;m not here right now</span></div></status>
+<status type="online" sender="suyati@zaptech-pc" time="2016-03-17T11:16:46+0530" alias="suyati"></status>
+<status type="away" sender="suyati@zaptech-pc" time="2016-03-17T11:56:00+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">I&apos;m not here right now</span></div></status>
+<status type="idle" sender="suyati@zaptech-pc" time="2016-03-17T11:56:00+0530" alias="suyati"></status>
+<status type="available" sender="suyati@zaptech-pc" time="2016-03-17T11:56:12+0530" alias="suyati"></status>
+<status type="online" sender="suyati@zaptech-pc" time="2016-03-17T11:56:12+0530" alias="suyati"></status>
+<status type="away" sender="suyati@zaptech-pc" time="2016-03-17T13:34:01+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">I&apos;m not here right now</span></div></status>
+<status type="idle" sender="suyati@zaptech-pc" time="2016-03-17T13:34:02+0530" alias="suyati"></status>
+<status type="available" sender="suyati@zaptech-pc" time="2016-03-17T14:11:49+0530" alias="suyati"></status>
+<status type="online" sender="suyati@zaptech-pc" time="2016-03-17T14:11:49+0530" alias="suyati"></status>
+<status type="away" sender="suyati@zaptech-pc" time="2016-03-17T15:00:11+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">I&apos;m not here right now</span></div></status>
+<status type="idle" sender="suyati@zaptech-pc" time="2016-03-17T15:00:11+0530" alias="suyati"></status>
+<status type="available" sender="suyati@zaptech-pc" time="2016-03-17T15:00:20+0530" alias="suyati"></status>
+<status type="online" sender="suyati@zaptech-pc" time="2016-03-17T15:00:20+0530" alias="suyati"></status>
+<event type="windowClosed" sender="vivek@192.168.15.43" time="2016-03-17T16:13:49+0530"></event></chat>

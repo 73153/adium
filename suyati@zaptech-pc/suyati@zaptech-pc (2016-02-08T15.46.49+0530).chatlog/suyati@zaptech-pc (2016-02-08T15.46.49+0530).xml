@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<chat xmlns="http://purl.org/net/ulf/ns/0.4-02" account="vivek@192.168.15.43" service="Jabber" adiumversion="1.5.10" buildid="7ad57fbf4c17">
+<event type="windowOpened" sender="vivek@192.168.15.43" time="2016-02-08T15:46:54+0530"></event>
+<message sender="suyati@zaptech-pc" time="2016-02-08T15:46:50+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">hello</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-08T15:47:00+0530" alias="vivek "><div>hello</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-08T15:47:27+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">for first page i mean dashboard</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-08T15:47:35+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">when u have to pass cat_id = 2</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-08T15:47:51+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">i guess only subcategory details will be needed</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-08T15:48:06+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">no topproducts or assigned products needed?</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-08T15:48:08+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">right?</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-08T15:48:46+0530" alias="vivek "><div>yes right</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-08T15:48:50+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<event type="windowClosed" sender="vivek@192.168.15.43" time="2016-02-08T15:49:57+0530"></event>
+<event type="windowOpened" sender="vivek@192.168.15.43" time="2016-02-08T15:54:39+0530"></event>
+<message sender="suyati@zaptech-pc" time="2016-02-08T15:54:39+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">hello</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-08T15:54:41+0530" alias="suyati"><div><a href="http://192.168.15.190/pantrykart/web/categorySub.php" style="font-family: Helvetica; font-size: 12pt;">http://192.168.15.190/pantrykart/web/categorySub.php</a></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-08T15:54:53+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">check this, my local url</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-08T15:55:03+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">pass cat_id = 6</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-08T15:55:20+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">check and see if it matches all ur requirements</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-08T15:56:39+0530" alias="vivek "><div>I think done all in one.</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-08T15:56:56+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">and wht abt loading time?</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-08T15:57:24+0530" alias="vivek "><div>this will work for us and now we are getting fast response.</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-08T15:57:36+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-08T15:57:43+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">let me upload on 216</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-08T16:01:49+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">change pushed</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-08T16:01:57+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">you can use 216 url now</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-08T16:04:00+0530" alias="vivek "><div>ok</div></message>
+<status type="away" sender="suyati@zaptech-pc" time="2016-02-08T16:36:44+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">I&apos;m not here right now</span></div></status>
+<status type="idle" sender="suyati@zaptech-pc" time="2016-02-08T16:36:45+0530" alias="suyati"></status>
+<status type="available" sender="suyati@zaptech-pc" time="2016-02-08T16:49:48+0530" alias="suyati"></status>
+<status type="online" sender="suyati@zaptech-pc" time="2016-02-08T16:49:48+0530" alias="suyati"></status>
+<message sender="suyati@zaptech-pc" time="2016-02-08T17:08:13+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">let me know if any changes are needed</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-08T17:08:31+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">meanwhile i will change the search ws</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-08T17:08:40+0530" alias="vivek "><div>ok</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-08T17:16:10+0530" alias="vivek "><div>Reset changes for the subcategory as related to 4 web service.</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-08T17:16:19+0530" alias="vivek "><div>Now i think you have changed</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-08T17:36:53+0530" alias="vivek "><div>Hi</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-08T17:37:02+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">hi</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-08T17:37:46+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">no i have not changed anything</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-08T17:37:48+0530" alias="vivek "><div>please let me know once you have done with the search web service?</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-08T17:37:53+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">still its 4 called in 1</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-08T17:37:58+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">u want me to revert?</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-08T17:38:02+0530" alias="vivek "><div>yes</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-08T17:38:04+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-08T17:38:20+0530" alias="vivek "><div>also once you have done with the search web service let me know</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-08T17:38:39+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">for searchprods ws, you want me to return all prods, right?</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-08T17:38:49+0530" alias="vivek "><div>yes</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-08T17:39:00+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-08T17:45:31+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">changes uploaded</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-08T17:45:50+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">if any ws is taking more time, let me know.. i will change the code</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-08T17:46:15+0530" alias="vivek "><div>ok</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-08T17:46:32+0530" alias="vivek "><div>have you done with search web service </div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-08T17:46:42+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">yes</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-08T17:46:47+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">i have changed that too</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-08T17:46:59+0530" alias="vivek "><div>please send the url and parameters</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-08T17:47:01+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">for categorysub</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-08T17:47:08+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">i have added image field too</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-08T17:47:14+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">same url</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-08T17:47:21+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">and no parameter</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-08T17:47:26+0530" alias="vivek "><div>ok</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-08T17:47:52+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">check it &amp; let me know if any change needed</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-08T17:48:01+0530" alias="vivek "><div>ok</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-08T17:51:32+0530" alias="vivek "><div>Hi</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-08T17:51:46+0530" alias="vivek "><div>Please send the filled parameter for cartActions.php</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-08T17:51:55+0530" alias="vivek "><div>i mean demo</div></message>
+<status type="away" sender="suyati@zaptech-pc" time="2016-02-08T17:54:29+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">I&apos;m not here right now</span></div></status>
+<status type="idle" sender="suyati@zaptech-pc" time="2016-02-08T17:54:30+0530" alias="suyati"></status>
+<status type="available" sender="suyati@zaptech-pc" time="2016-02-08T17:54:48+0530" alias="suyati"></status>
+<status type="online" sender="suyati@zaptech-pc" time="2016-02-08T17:54:48+0530" alias="suyati"></status>
+<message sender="suyati@zaptech-pc" time="2016-02-08T17:55:16+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-08T17:56:51+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">userid=11, prodid=791, sku = <span style="color: #2f2f2f;">5117922040</span>, qty=1, flag=add/update/delete</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-08T17:56:55+0530" alias="vivek "><div>ok</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-08T17:56:57+0530" alias="vivek "><div>thanks</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-08T18:10:40+0530" alias="vivek "><div>Hello</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-08T18:10:45+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">hi</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-08T18:11:26+0530" alias="vivek "><div>Please keep the revert all changes backup, Because may be in future requirement may change</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-08T18:11:44+0530" alias="vivek "><div>All the backup for changes</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-08T18:11:46+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">yes, i have them</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-08T18:12:11+0530" alias="vivek "><div>ok great</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-08T18:12:31+0530" alias="vivek "><div>Thanks for today.</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-08T18:12:41+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-08T18:13:34+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">are you aware of payment method part for placing an order?</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-08T18:13:56+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">its express checkout by paypal</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-08T18:18:22+0530" alias="vivek "><div>wait</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-08T18:18:40+0530" alias="vivek "><div>please wait</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-08T18:20:11+0530" alias="vivek "><div>Please ask bhumik more for this, He is knowing the whole procedure for payment gate way.</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-08T18:20:20+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-08T18:20:29+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">actually i asked him in morning</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-08T18:20:40+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">he said still have to confirm to client</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-08T18:20:48+0530" alias="vivek "><div>ok</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-08T18:21:02+0530" alias="vivek "><div>I was not knowing about payment</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-08T18:21:08+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-08T18:21:20+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">there are no screens for checkout steps even</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-08T18:21:28+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">except checkout address</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-08T18:21:33+0530" alias="vivek "><div>ok</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-08T18:21:48+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">there is a custom step for shipment</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-08T18:21:54+0530" alias="vivek "><div>yes</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-08T18:21:57+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">to select delivery date and time</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-08T18:23:12+0530" alias="vivek "><div>I think there  is session timeout, encryption, Deception whole  long procedure for this.</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-08T18:23:34+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">for payment?</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-08T18:23:37+0530" alias="vivek "><div>yes</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-08T18:23:44+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">i m not aware of</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-08T18:23:53+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">will inform bhumik</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-08T18:24:05+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">right now i have used a static method for payment</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-08T18:24:15+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">cheque/money order</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-08T18:24:32+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">and orderplacing process ws is done with this</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-08T18:25:00+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">but still 2 will be remaining, delivery date/time &amp; paypal payment method</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-08T18:25:49+0530" alias="vivek "><div>I think the whole payment procdure is handle at your side, Only the customer detail we will pass you in the encrypted form and you need to decrypt it for further payment procedure.</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-08T18:26:19+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">lets see</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-08T18:26:29+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">i will discuss with bhumik</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-08T18:27:04+0530" alias="vivek "><div>This whole is handled at your side, Because the APPLE does not support the application that contain any of the third party payment gateway.</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-08T18:27:52+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">so it is like it cannot redirect to paypal site?</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-08T18:28:07+0530" alias="vivek "><div>APPLE will directly reject the application if this is not followed, Otherwise we could have done at our side </div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-08T18:28:13+0530" alias="vivek "><div>yes</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-08T18:28:21+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-08T18:28:27+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">will find some way</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-08T18:28:34+0530" alias="vivek "><div>ok thanks</div></message>
+<status type="disconnected" sender="vivek@192.168.15.43" time="2016-02-08T19:12:02+0530" alias="vivek "><div>You have disconnected</div></status>
+<status type="connected" time="2016-02-08T19:12:22+0530"><div>You have connected</div></status>
+<status type="away" sender="suyati@zaptech-pc" time="2016-02-08T19:21:00+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">I&apos;m not here right now</span></div></status>
+<status type="idle" sender="suyati@zaptech-pc" time="2016-02-08T19:21:00+0530" alias="suyati"></status></chat>

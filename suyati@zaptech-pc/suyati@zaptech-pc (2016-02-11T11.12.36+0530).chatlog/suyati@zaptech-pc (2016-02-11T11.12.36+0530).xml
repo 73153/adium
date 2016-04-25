@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<chat xmlns="http://purl.org/net/ulf/ns/0.4-02" account="vivek@192.168.15.43" service="Jabber" adiumversion="1.5.10" buildid="7ad57fbf4c17">
+<event type="windowOpened" sender="vivek@192.168.15.43" time="2016-02-11T11:12:48+0530"></event>
+<message sender="vivek@192.168.15.43" time="2016-02-11T11:12:48+0530" alias="vivek "><div>Hi</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-11T11:12:54+0530" alias="vivek "><div>Good Morning</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-11T11:13:25+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">hello gm</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-11T11:14:11+0530" alias="vivek "><div>Under customercart.php web service we are getting the last poduct added,</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-11T11:15:05+0530" alias="vivek "><div>for this shouldn&apos;t  we get the list of total  </div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-11T11:15:10+0530" alias="vivek "><div>order</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-11T11:15:16+0530" alias="vivek "><div><a href="http://216.55.169.45/~pantrykart/master/web/customercart.php">http://216.55.169.45/~pantrykart/master/web/customercart.php</a></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-11T11:15:24+0530" alias="vivek "><div>user_id=29</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-11T11:16:10+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">it will give</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-11T11:16:10+0530" alias="vivek "><div>I mean product list that is added to cart </div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-11T11:16:18+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">products in quote</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-11T11:16:25+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">all products</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-11T11:16:33+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">try with some other user as well</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-11T11:16:38+0530" alias="vivek "><div>ok</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-11T11:16:43+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">u have other ids?</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-11T11:16:49+0530" alias="vivek "><div>yes</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-11T11:17:14+0530" alias="vivek "><div>user_id=46</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-11T11:17:16+0530" alias="vivek "><div>other</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-11T11:21:33+0530" alias="vivek "><div>Hi</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-11T11:21:36+0530" alias="vivek "><div>customercart.php<br /></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-11T11:21:47+0530" alias="vivek "><div>is not showing any response now</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-11T11:22:00+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok checking</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-11T11:37:27+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">helo</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-11T11:37:33+0530" alias="vivek "><div>Hello</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-11T11:37:34+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">userid=46</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-11T11:37:39+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">i am getting data</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-11T11:37:49+0530" alias="vivek "><div>i am checking now</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-11T11:38:01+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">parameter is userif</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-11T11:38:03+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">userid</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-11T11:38:08+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">not user_id</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-11T11:38:12+0530" alias="vivek "><div>ok</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-11T11:39:33+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">if no data is received that means there is no existing product in user&apos;s cart</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-11T11:39:46+0530" alias="vivek "><div>I am getting now</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-11T11:39:53+0530" alias="vivek "><div>for userid=46</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-11T11:39:58+0530" alias="vivek "><div>thanks</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-11T11:40:03+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-11T11:41:22+0530" alias="vivek "><div>Hello</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-11T11:41:37+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">hi</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-11T11:41:44+0530" alias="vivek "><div>How i should add the sku for each different users</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-11T11:42:10+0530" alias="vivek "><div>I mean there is only 2 to 3 sku we have</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-11T11:42:22+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">u want more prod ids and sku?</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-11T11:42:35+0530" alias="vivek "><div>yes</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-11T11:42:38+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok wait</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-11T11:42:58+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">781-<span style="color: #2f2f2f;">5117917330</span></span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-11T11:43:11+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">782-<span style="color: #2f2f2f;">5117917252</span></span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-11T11:43:20+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">783-<span style="color: #2f2f2f;">5117917175</span></span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-11T11:43:24+0530" alias="vivek "><div>And also how we identify that this user contain the particular sku i</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-11T11:43:30+0530" alias="vivek "><div>sku*</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-11T11:43:40+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">sku is connected with prod</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-11T11:43:49+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">stock keeping unit</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-11T11:44:01+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">when u add to cart a prod for a user</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-11T11:44:28+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">prod and user get linked</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-11T11:47:36+0530" alias="vivek "><div>under cartActions.php we need to add the sku parameter and its value, But we cannot identify which sku we need to pass. </div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-11T11:47:53+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">prod has sku </span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-11T11:48:05+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">are you getting sku in prods?</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-11T11:48:15+0530" alias="vivek "><div>No </div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-11T11:48:27+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok.. let me add it</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-11T11:48:31+0530" alias="vivek "><div>ok</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-11T11:48:54+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">which ws u r using before add to cart?</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-11T11:49:18+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">categoryAssignedProdList.php</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-11T11:49:23+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">this one is having sku</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-11T11:49:39+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">productDetails.php</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-11T11:49:44+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">this is also having sku</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-11T11:49:49+0530" alias="vivek "><div>no</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-11T11:50:31+0530" alias="vivek "><div>Hi for topProductsPerCategoryList.php</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-11T11:50:37+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-11T11:50:41+0530" alias="vivek "><div>this we are getting sku</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-11T11:51:07+0530" alias="vivek "><div>and in this categoryAssignedProdList.php we are not getting sku</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-11T11:51:16+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok checking</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-11T11:55:16+0530" alias="vivek "><div>also please add sku in this dashboardProductList.php<br />brandAssignedProductList.php</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-11T11:55:39+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<event type="windowClosed" sender="vivek@192.168.15.43" time="2016-02-11T11:55:48+0530"></event>
+<event type="windowOpened" sender="vivek@192.168.15.43" time="2016-02-11T11:56:30+0530"></event>
+<message sender="suyati@zaptech-pc" time="2016-02-11T11:56:30+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">hello</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-11T11:56:37+0530" alias="vivek "><div>Heelo</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-11T11:56:42+0530" alias="vivek "><div>Hello*</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-11T11:56:44+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">pls check categoryAssignedProdList.php</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-11T11:56:51+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">i m getting sku in this ws</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-11T11:56:55+0530" alias="vivek "><div>ok</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-11T12:05:41+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">dashboardProductList - done</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-11T12:05:52+0530" alias="vivek "><div>ok</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-11T12:09:17+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">brandAssignedProductList - done</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-11T12:11:14+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">is there some issue with brandAssignedProductList ws?</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-11T12:11:27+0530" alias="vivek "><div>no now not</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-11T12:11:44+0530" alias="vivek "><div>getting sku also int hat</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-11T12:11:46+0530" alias="vivek "><div>that*</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-11T12:11:56+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">are u getting properly filtered data?</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-11T12:12:08+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">i mean according to brandid and catid?</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-11T12:12:16+0530" alias="vivek "><div>yes</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-11T12:12:33+0530" alias="vivek "><div>DONE</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-11T12:12:37+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-11T12:20:06+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">hello</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-11T12:20:17+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">pls send subcategory screen imagew</span></div></message>
+<status type="purple" time="2016-02-11T12:22:35+0530"><div><span style="font-family: Helvetica; font-size: 12pt;">Offering to send subcaterory-step6-new1.png to suyati</span></div></status>
+<message sender="vivek@192.168.15.43" time="2016-02-11T12:23:03+0530" alias="vivek "><div>pls accept</div></message>
+<status type="purple" time="2016-02-11T12:23:12+0530"><div><span style="font-family: Helvetica; font-size: 12pt;">Transfer of file subcaterory-step6-new1.png complete</span></div></status>
+<message sender="suyati@zaptech-pc" time="2016-02-11T12:56:27+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">hello</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-11T12:56:47+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">added sku, brands, weight and description for all ws</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-11T12:56:47+0530" alias="vivek "><div>Hello</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-11T12:57:04+0530" alias="vivek "><div>ok, thanks.</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-11T12:57:18+0530" alias="vivek "><div>we will check now.</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-11T12:57:30+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-11T13:01:34+0530" alias="vivek "><div>For brandAssignedProductList.php not getting the brand,weight and description</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-11T13:01:53+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-11T13:02:45+0530" alias="vivek "><div>and in categoryAssignedProdList.php , dashboardProductList.php getting all 4 parameters and values </div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-11T13:03:48+0530" alias="vivek "><div>and topProductsPerCategoryList.php working perfect.</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-11T13:03:59+0530" alias="vivek "><div>and also*</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-11T13:05:25+0530" alias="vivek "><div>you had lunch?</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-11T13:06:13+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">no, after 1.30</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-11T13:06:15+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">we go</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-11T13:06:19+0530" alias="vivek "><div>ok</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-11T13:06:27+0530" alias="vivek "><div>we are going for lunch now.</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-11T13:06:36+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-11T13:06:41+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">brandassigned is done</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-11T13:24:39+0530" alias="vivek "><div>ok thanks</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-11T13:25:36+0530" alias="vivek "><div>I think only the payment part is only remaining and rest of the things are done</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-11T13:25:46+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">yes..</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-11T13:25:59+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">payment and delivery dat/time</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-11T13:26:11+0530" alias="vivek "><div>yes</div></message>
+<event type="windowClosed" sender="vivek@192.168.15.43" time="2016-02-11T13:26:33+0530"></event></chat>

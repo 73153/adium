@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<chat xmlns="http://purl.org/net/ulf/ns/0.4-02" account="vivek@192.168.15.43" service="Jabber" adiumversion="1.5.10" buildid="7ad57fbf4c17">
+<event type="windowOpened" sender="vivek@192.168.15.43" time="2016-02-25T15:20:17+0530"></event>
+<message sender="suyati@zaptech-pc" time="2016-02-25T15:20:17+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">hello</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-25T15:20:24+0530" alias="vivek "><div>Hello</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-25T15:20:32+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">cart, coupon ws checked?</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-25T15:21:20+0530" alias="vivek "><div>yes checked, it is responsive now</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-25T15:21:23+0530" alias="vivek "><div>We have checked from our side, All web service is working.</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-25T15:21:40+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok, next ws is also ready</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-25T15:21:48+0530" alias="vivek "><div>But customerInfo.php<br />customerInfoUpdate.php this two is not responsive</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-25T15:21:52+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">which is for address and shipping method</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-25T15:21:58+0530" alias="vivek "><div>I mean response is slow</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-25T15:22:03+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-25T15:22:53+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">have you started with delivery preferences step?</span></div></message>
+<event type="windowClosed" sender="vivek@192.168.15.43" time="2016-02-25T15:37:54+0530"></event></chat>

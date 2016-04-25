@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<chat xmlns="http://purl.org/net/ulf/ns/0.4-02" account="vivek@192.168.15.43" service="Jabber" adiumversion="1.5.10.2" buildid="a23057ce854d">
+<event type="windowOpened" sender="vivek@192.168.15.43" time="2016-03-28T18:51:13+0530"></event>
+<message sender="vivek@192.168.15.43" time="2016-03-28T18:51:13+0530" alias="vivek "><div>Hello</div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-28T18:52:30+0530" alias="vivek "><div>please add the parameter  discount_price in searchprod.php, today not needed. But to remind you.  </div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-28T18:52:55+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-28T18:56:48+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">done</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-28T18:56:53+0530" alias="vivek "><div>ok</div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-28T18:56:53+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">pls check</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-28T18:56:56+0530" alias="vivek "><div>thanks</div></message>
+<status type="away" sender="suyati@zaptech-pc" time="2016-03-28T19:12:43+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">I&apos;m not here right now</span></div></status>
+<status type="idle" sender="suyati@zaptech-pc" time="2016-03-28T19:12:43+0530" alias="suyati"></status>
+<status type="available" sender="suyati@zaptech-pc" time="2016-03-28T19:15:13+0530" alias="suyati"></status>
+<status type="online" sender="suyati@zaptech-pc" time="2016-03-28T19:15:13+0530" alias="suyati"></status>
+<status type="away" sender="suyati@zaptech-pc" time="2016-03-28T19:17:16+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">I&apos;m not here right now</span></div></status></chat>

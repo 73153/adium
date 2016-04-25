@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<chat xmlns="http://purl.org/net/ulf/ns/0.4-02" account="vivek@192.168.15.43" service="Jabber" adiumversion="1.5.10" buildid="7ad57fbf4c17">
+<event type="windowOpened" sender="vivek@192.168.15.43" time="2016-03-09T18:39:06+0530"></event>
+<message sender="vivek@192.168.15.43" time="2016-03-09T18:39:06+0530" alias="vivek "><div>Hello</div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-09T18:39:30+0530" alias="vivek "><div>We have changed the base local path to the server path.</div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-09T18:39:37+0530" alias="vivek "><div><a href="http://www.mycampusgenie.com/web/">http://www.mycampusgenie.com/web/</a></div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-09T18:52:42+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-09T18:52:48+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">any issue faced?</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-09T18:53:25+0530" alias="vivek "><div>yes we will discuss tomorrow.</div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-09T18:53:32+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-09T18:53:33+0530" alias="vivek "><div>Thanks for today</div></message>
+<status type="offline" sender="suyati@zaptech-pc" time="2016-03-09T19:05:07+0530" alias="suyati"></status>
+<status type="online" sender="suyati@zaptech-pc" time="2016-03-09T19:13:45+0530" alias="suyati"></status>
+<event type="windowClosed" sender="vivek@192.168.15.43" time="2016-03-09T19:42:58+0530"></event></chat>

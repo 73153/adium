@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<chat xmlns="http://purl.org/net/ulf/ns/0.4-02" account="vivek@192.168.15.43" service="Jabber" adiumversion="1.5.10" buildid="7ad57fbf4c17">
+<event type="windowOpened" sender="vivek@192.168.15.43" time="2016-01-20T16:49:38+0530"></event>
+<message sender="suyati@zaptech-pc" time="2016-01-20T16:49:38+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">hello</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-01-20T16:49:48+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">any issue with webservices?</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-01-20T16:49:57+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">vishal sir told me</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-01-20T17:01:50+0530" alias="vivek "><div>I am living for today, So we will discuss on this tommorow.</div></message>
+<message sender="suyati@zaptech-pc" time="2016-01-20T17:02:07+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<event type="windowClosed" sender="vivek@192.168.15.43" time="2016-01-20T17:02:14+0530"></event></chat>

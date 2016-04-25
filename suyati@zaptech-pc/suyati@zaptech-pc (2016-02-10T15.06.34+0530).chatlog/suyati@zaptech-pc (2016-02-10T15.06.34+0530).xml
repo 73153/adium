@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<chat xmlns="http://purl.org/net/ulf/ns/0.4-02" account="vivek@192.168.15.43" service="Jabber" adiumversion="1.5.10" buildid="7ad57fbf4c17">
+<event type="windowOpened" sender="vivek@192.168.15.43" time="2016-02-10T15:06:36+0530"></event>
+<message sender="suyati@zaptech-pc" time="2016-02-10T15:06:35+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">hello</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-10T15:06:39+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">pls check</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-10T15:06:46+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">i have made the changes</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-10T15:06:50+0530" alias="vivek "><div>ok</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-10T15:07:27+0530" alias="vivek "><div>please send me parameters</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-10T15:07:39+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">same paramaters</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-10T15:07:46+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">userid=1&amp;prodid=781&amp;sku=5117917330&amp;flag=add&amp;qty=1</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-10T15:07:51+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">i used this</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-10T15:08:05+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">you can use any</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-10T15:08:08+0530" alias="vivek "><div>ok</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-10T15:12:47+0530" alias="vivek "><div>getting now all 4 values now</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-10T15:13:04+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-10T15:13:11+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">all fine?</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-10T15:15:08+0530" alias="vivek "><div>yes</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-10T15:15:14+0530" alias="vivek "><div>working perfectly</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-10T15:15:23+0530" alias="vivek "><div>for both the web service</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-10T15:15:26+0530" alias="vivek "><div>thanks</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-10T15:15:37+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<status type="away" sender="suyati@zaptech-pc" time="2016-02-10T16:33:42+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">I&apos;m not here right now</span></div></status>
+<status type="idle" sender="suyati@zaptech-pc" time="2016-02-10T16:33:42+0530" alias="suyati"></status>
+<status type="available" sender="suyati@zaptech-pc" time="2016-02-10T16:38:39+0530" alias="suyati"></status>
+<status type="online" sender="suyati@zaptech-pc" time="2016-02-10T16:38:39+0530" alias="suyati"></status>
+<event type="windowClosed" sender="vivek@192.168.15.43" time="2016-02-10T17:07:58+0530"></event>
+<event type="windowOpened" sender="vivek@192.168.15.43" time="2016-02-10T17:14:19+0530"></event>
+<message sender="vivek@192.168.15.43" time="2016-02-10T17:16:10+0530" alias="vivek "><div>Hi</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-10T17:16:52+0530" alias="vivek "><div>In customerOrderHistoryList.php please also send the image_url, Because according to the UI we also need to display the image.</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-10T17:18:19+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-10T17:40:47+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">hello</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-10T17:40:53+0530" alias="vivek "><div>Hello</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-10T17:41:09+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">order history has only order details</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-10T17:41:21+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">wht image_url u want in that?</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-10T17:42:04+0530" alias="vivek "><div>in the order list when we click on any order inside that we need to set the image</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-10T17:42:20+0530" alias="vivek "><div>for ur reference i am sending you the screen shot</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-10T17:42:22+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">u mean to say order details?</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-10T17:42:28+0530" alias="vivek "><div>yes</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-10T17:42:32+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">there is different ws for that</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-10T17:42:36+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">are u aware of?</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-10T17:44:15+0530" alias="vivek "><div>yes customerOrderInfo.php</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-10T17:44:38+0530" alias="vivek "><div>but inside that also we are not getting the image url </div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-10T17:44:38+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">so in that u want image url</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-10T17:44:43+0530" alias="vivek "><div>yes</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-10T17:44:44+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-10T17:45:00+0530" alias="vivek "><div>sorry for giving wrong url before</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-10T17:54:39+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">pls check now</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-10T17:54:43+0530" alias="vivek "><div>ok</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-10T17:55:50+0530" alias="vivek "><div>I think there is some problem with the response.</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-10T17:57:06+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">wht is the prob?</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-10T17:57:21+0530" alias="vivek "><div>not getting any response</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-10T17:57:31+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">send screenshot</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-10T17:57:36+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">or parameter</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-10T17:57:47+0530" alias="vivek "><div>orderid=100000004</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-10T17:57:52+0530" alias="vivek "><div><a href="http://216.55.169.45/~pantrykart/master/web/customerOrderInfo.php">http://216.55.169.45/~pantrykart/master/web/customerOrderInfo.php</a></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-10T18:04:50+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">hello</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-10T18:04:57+0530" alias="vivek "><div>Hello</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-10T18:05:01+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">it is a very old order</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-10T18:05:07+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">now prods dont exist</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-10T18:05:12+0530" alias="vivek "><div>ok</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-10T18:05:21+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">so it is not able to fetch the details we are fetching</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-10T18:05:33+0530" alias="vivek "><div>please send new orderid</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-10T18:05:55+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">100000141</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-10T18:05:57+0530" alias="vivek "><div>ok</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-10T18:06:00+0530" alias="vivek "><div>Thanks</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-10T18:06:14+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">100000139, another</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-10T18:06:22+0530" alias="vivek "><div>ok</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-10T18:16:52+0530" alias="vivek "><div>Yes now i am getting the image in order detail</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-10T18:21:12+0530" alias="vivek "><div>Thanks for the day, You are doing great.</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-10T18:21:21+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">:)</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-10T18:21:24+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">thanks</span></div></message>
+<event type="windowClosed" sender="vivek@192.168.15.43" time="2016-02-10T18:22:01+0530"></event></chat>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<chat xmlns="http://purl.org/net/ulf/ns/0.4-02" account="vivek@192.168.15.43" service="Jabber" adiumversion="1.5.10" buildid="7ad57fbf4c17">
+<event type="windowOpened" sender="vivek@192.168.15.43" time="2016-03-08T09:54:38+0530"></event>
+<message sender="vivek@192.168.15.43" time="2016-03-08T09:54:38+0530" alias="vivek "><div>Hello</div></message>
+<status type="online" sender="suyati@zaptech-pc" time="2016-03-08T10:07:41+0530" alias="suyati"></status>
+<status type="available" sender="suyati@zaptech-pc" time="2016-03-08T10:07:41+0530" alias="suyati"></status>
+<message sender="suyati@zaptech-pc" time="2016-03-08T10:07:46+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">hi</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-08T10:07:50+0530" alias="vivek "><div>Good morning</div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-08T10:08:00+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">gm</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-08T10:12:30+0530" alias="vivek "><div>Please check this web service </div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-08T10:12:39+0530" alias="vivek "><div>customerAddressCreate.php<br /><br />userid, firstname, lastname, streetline11, streetline2, city, country_id, region, region_id, postcode, telephone, is_default_billing, is_default_shipping<br /><br />aama thi<br /><br /> is_default_billing, is_default_shipping and country_id,<br /><br />remove kravanu</div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-08T10:12:59+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-08T11:04:10+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">userid, firstname, lastname, streetline1, streetline2, city, region, region_id, postcode, telephone, mobile</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-08T11:04:17+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">there are new paramaters</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-08T11:04:19+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">pls check it</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-08T11:04:26+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">changes uploaded on 216</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-08T11:12:17+0530" alias="vivek "><div>ok</div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-08T11:12:19+0530" alias="vivek "><div>thanks</div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-08T11:43:05+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">hello</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-08T11:43:25+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">what shud be the page size?</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-08T11:47:47+0530" alias="vivek "><div>for which page dashboard or subcategory or for all you are asking?</div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-08T11:47:57+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">for all?</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-08T11:48:05+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">i guess that will remain same for all</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-08T11:48:32+0530" alias="vivek "><div>what parameter for the second time</div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-08T11:48:46+0530" alias="vivek "><div>for example page 2,3,4….</div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-08T11:49:01+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">page size i mean, how many products to be displayed per page</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-08T11:49:40+0530" alias="vivek "><div>12</div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-08T11:49:45+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-08T11:50:56+0530" alias="vivek "><div>i mean 10 to 12 not exact 12</div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-08T11:51:38+0530" alias="vivek "><div>please send the data in dashboard for first three category and then next three category</div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-08T11:53:11+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">wait</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-08T11:53:35+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">i have done the pagination part for categoryAssignedProdList</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-08T11:53:52+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">let me upload and u check it from ur end</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-08T11:54:06+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">u will have to pass another parameter as pageno</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-08T11:54:11+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">as u shift the page</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-08T11:55:16+0530" alias="vivek "><div>ok</div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-08T12:00:36+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">hi</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-08T12:00:42+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">pls check it</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-08T12:00:46+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">categoryAssignedProdList</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-08T12:00:51+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">for this onw</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-08T12:00:58+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">pass pageno</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-08T12:01:51+0530" alias="vivek "><div>ok</div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-08T12:14:07+0530" alias="vivek "><div>Hello</div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-08T12:14:20+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">hello</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-08T12:14:30+0530" alias="vivek "><div>its working fine, But we also need one more parameter</div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-08T12:14:39+0530" alias="vivek "><div>total page.</div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-08T12:15:10+0530" alias="vivek "><div>so that we can pass the pageno accordingly</div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-08T12:16:12+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">whr do u want that parameter to be added?</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-08T12:16:48+0530" alias="vivek "><div>at the end of the category in each page, </div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-08T12:17:01+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">webservice?</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-08T12:17:57+0530" alias="vivek "><div>categoryAssignedProdList.php the way you append the &quot;status&quot;: 1, and msg</div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-08T12:18:28+0530" alias="vivek "><div>as separate total_page</div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-08T12:20:27+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ol</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-08T12:20:28+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-08T12:20:37+0530" alias="vivek "><div>ok</div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-08T12:21:03+0530" alias="vivek "><div>we need the pagination for only 2 web service</div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-08T12:21:04+0530" alias="vivek "><div>dashboardProductList.php</div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-08T12:21:06+0530" alias="vivek "><div>and</div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-08T12:21:41+0530" alias="vivek "><div>categoryAssignedProdList.php</div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-08T12:21:47+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-08T12:21:51+0530" alias="vivek "><div>no need for the others</div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-08T12:32:46+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">hello.. done for both ws</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-08T12:32:49+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">pls check</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-08T12:33:31+0530" alias="vivek "><div>ok </div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-08T12:53:49+0530" alias="vivek "><div>Hello</div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-08T12:53:57+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">hello</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-08T12:54:00+0530" alias="vivek "><div>done we have checked from our side</div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-08T12:54:02+0530" alias="vivek "><div>thanks</div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-08T12:54:06+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<status type="away" sender="suyati@zaptech-pc" time="2016-03-08T13:43:26+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">I&apos;m not here right now</span></div></status>
+<status type="idle" sender="suyati@zaptech-pc" time="2016-03-08T13:43:26+0530" alias="suyati"></status>
+<status type="available" sender="suyati@zaptech-pc" time="2016-03-08T13:58:05+0530" alias="suyati"></status>
+<status type="online" sender="suyati@zaptech-pc" time="2016-03-08T13:58:05+0530" alias="suyati"></status>
+<event type="windowClosed" sender="vivek@192.168.15.43" time="2016-03-08T13:59:07+0530"></event></chat>

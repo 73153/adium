@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<chat xmlns="http://purl.org/net/ulf/ns/0.4-02" account="vivek@192.168.15.43" service="Jabber" adiumversion="1.5.10" buildid="7ad57fbf4c17">
+<event type="windowOpened" sender="vivek@192.168.15.43" time="2016-01-21T11:38:27+0530"></event>
+<message sender="suyati@zaptech-pc" time="2016-01-21T11:38:27+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">for all ws, changed to post</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-01-21T11:38:42+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">let me know if any change is needed in any particular ws</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-01-21T11:44:12+0530" alias="vivek "><div>ok</div></message>
+<event type="windowClosed" sender="vivek@192.168.15.43" time="2016-01-21T11:44:15+0530"></event></chat>

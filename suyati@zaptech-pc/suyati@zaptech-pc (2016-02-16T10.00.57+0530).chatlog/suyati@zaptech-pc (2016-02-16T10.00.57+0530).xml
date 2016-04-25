@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<chat xmlns="http://purl.org/net/ulf/ns/0.4-02" account="vivek@192.168.15.43" service="Jabber" adiumversion="1.5.10" buildid="7ad57fbf4c17">
+<event type="windowOpened" sender="vivek@192.168.15.43" time="2016-02-16T10:59:18+0530"></event>
+<status type="online" sender="suyati@zaptech-pc" time="2016-02-16T10:59:18+0530" alias="suyati"></status>
+<status type="available" sender="suyati@zaptech-pc" time="2016-02-16T10:59:18+0530" alias="suyati"></status>
+<message sender="vivek@192.168.15.43" time="2016-02-16T11:56:15+0530" alias="vivek "><div>Hello<br /></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-16T11:56:21+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">hi</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-16T11:56:57+0530" alias="vivek "><div>One more request, remove the HOME array from categorySub.php</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-16T11:57:23+0530" alias="vivek "><div>Client does not want anywhere to see the home listing</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-16T11:57:31+0530" alias="vivek "><div>do not*</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-16T11:57:51+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-16T12:09:14+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">check now</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-16T12:20:01+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">hello</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-16T12:20:06+0530" alias="vivek "><div>Hello</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-16T12:20:09+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">is it working now?</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-16T12:20:43+0530" alias="vivek "><div>yes</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-16T12:20:51+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-16T12:21:06+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">have you started with cart/checkout part </span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-16T12:21:20+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">i m not able to decide how shud i code them</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-16T12:21:53+0530" alias="vivek "><div>we are working with the issues</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-16T12:22:08+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-16T12:22:37+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">can we discuss regarding cart section ws today?</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-16T12:22:49+0530" alias="vivek "><div>ok</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-16T12:23:48+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">i have also made the change for search ws</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-16T12:23:57+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">pls have a look at that too</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-16T12:24:02+0530" alias="vivek "><div>ok</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-16T12:27:45+0530" alias="vivek "><div>Helllo</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-16T12:27:53+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">hello</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-16T12:28:16+0530" alias="vivek "><div>Please check dashboardProductList.php in this also remove  home listing</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-16T12:28:20+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-16T12:28:23+0530" alias="vivek "><div>&quot;category&quot;: &quot;Home&quot;,</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-16T12:32:19+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">check now</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-16T12:34:12+0530" alias="vivek "><div>ok</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-16T12:38:21+0530" alias="vivek "><div>yes now done</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-16T12:38:32+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-16T12:52:00+0530" alias="vivek "><div>Hello</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-16T12:52:08+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">hello</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-16T12:52:57+0530" alias="vivek "><div>for the searchprod.php do we to pass any parameter initially to view all productd</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-16T12:53:03+0530" alias="vivek "><div>products*</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-16T12:53:16+0530" alias="vivek "><div>have*</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-16T12:53:27+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">you can directly pass ur search parameter</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-16T12:53:36+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">it will get the data</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-16T12:54:01+0530" alias="vivek "><div>but directly passing, we are not getting any response</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-16T12:54:16+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">without parameter?</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-16T12:54:20+0530" alias="vivek "><div>yes</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-16T12:54:55+0530" alias="vivek "><div><a href="http://216.55.169.45/~pantrykart/master/web/">http://216.55.169.45/~pantrykart/master/web/</a></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-16T12:54:59+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">i suppose search parameter is compulsary</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-16T12:55:06+0530" alias="vivek "><div>{&quot;status&quot;:1,&quot;data&quot;:null}</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-16T12:55:12+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-16T12:55:16+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">let me set it as </span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-16T12:55:29+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">0 and valid message</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-16T12:55:59+0530" alias="vivek "><div>also view all products without passing parameters</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-16T12:56:16+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-16T12:56:27+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">in website it is not like thus</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-16T12:56:41+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">still we are doing it, right?</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-16T12:56:50+0530" alias="vivek "><div>yes</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-16T12:57:33+0530" alias="vivek "><div>but our UI is like that, We have no alternate from our side.</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-16T12:57:43+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok np</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-16T12:57:52+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">i m updating it</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-16T12:57:58+0530" alias="vivek "><div>ok thanks</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-16T13:01:41+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">check now</span></div></message>
+<status type="away" sender="suyati@zaptech-pc" time="2016-02-16T13:33:26+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">I&apos;m not here right now</span></div></status>
+<status type="idle" sender="suyati@zaptech-pc" time="2016-02-16T13:33:26+0530" alias="suyati"></status>
+<event type="windowClosed" sender="vivek@192.168.15.43" time="2016-02-16T14:01:59+0530"></event>
+<event type="windowOpened" sender="vivek@192.168.15.43" time="2016-02-16T14:06:30+0530"></event>
+<message sender="vivek@192.168.15.43" time="2016-02-16T14:06:38+0530" alias="vivek "><div>Now its working</div></message>
+<status type="away" sender="suyati@zaptech-pc" time="2016-02-16T14:09:02+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">I&apos;m not here right now</span></div></status>
+<status type="idle" sender="suyati@zaptech-pc" time="2016-02-16T14:09:02+0530" alias="suyati"></status>
+<status type="available" sender="suyati@zaptech-pc" time="2016-02-16T14:11:41+0530" alias="suyati"></status>
+<status type="online" sender="suyati@zaptech-pc" time="2016-02-16T14:11:41+0530" alias="suyati"></status>
+<status type="away" sender="suyati@zaptech-pc" time="2016-02-16T14:17:00+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">I&apos;m not here right now</span></div></status>
+<status type="idle" sender="suyati@zaptech-pc" time="2016-02-16T14:17:00+0530" alias="suyati"></status>
+<status type="available" sender="suyati@zaptech-pc" time="2016-02-16T14:17:15+0530" alias="suyati"></status>
+<status type="online" sender="suyati@zaptech-pc" time="2016-02-16T14:17:15+0530" alias="suyati"></status>
+<message sender="suyati@zaptech-pc" time="2016-02-16T15:40:46+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">hello</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-16T15:41:00+0530" alias="vivek "><div>Hello</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-16T15:41:17+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">when can u discuss regarding cart/checkout process</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-16T15:41:40+0530" alias="vivek "><div>ok</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-16T15:42:00+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">have u created the flow for it?</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-16T15:42:24+0530" alias="vivek "><div>nope still not,still working with the client issues</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-16T15:42:39+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok..</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-16T15:42:56+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">i just want to know the flow how it will work at ur end</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-16T15:43:06+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">so that i can code accordingly</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-16T15:43:54+0530" alias="vivek "><div>ok, Once we discuss flow from our side, We will let you know about this soon.</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-16T15:44:01+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<status type="offline" sender="suyati@zaptech-pc" time="2016-02-16T16:05:14+0530" alias="suyati"></status>
+<status type="online" sender="suyati@zaptech-pc" time="2016-02-16T16:21:57+0530" alias="suyati"></status>
+<message sender="vivek@192.168.15.43" time="2016-02-16T18:10:20+0530" alias="vivek "><div>Hellp</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-16T18:10:23+0530" alias="vivek "><div>hello*</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-16T18:10:31+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">hi</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-16T18:12:08+0530" alias="vivek "><div>Please add one more parameter in dashboardProductList.php that is cat_id</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-16T18:12:17+0530" alias="vivek "><div>for viewing all the products</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-16T18:12:25+0530" alias="vivek "><div>in subcategory</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-16T18:13:09+0530" alias="vivek "><div>have you got this point?, Please let me know if not.</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-16T18:14:44+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">main cat right?</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-16T18:15:04+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">along with category name?</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-16T18:16:12+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">check now</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-16T18:24:41+0530" alias="vivek "><div>&quot;category_id&quot;: &quot;6&quot;,</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-16T18:24:50+0530" alias="vivek "><div>this one only right</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-16T18:25:00+0530" alias="vivek "><div>added new key</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-16T18:26:00+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">not getting you</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-16T18:26:17+0530" alias="vivek "><div>ok added i have checked</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-16T18:26:19+0530" alias="vivek "><div>thanks</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-16T18:26:27+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok </span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-16T18:44:15+0530" alias="vivek "><div>Hello</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-16T18:44:23+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">hi</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-16T18:45:13+0530" alias="vivek "><div>dashboardProductList.php for   &quot;unit&quot;: &quot; &quot;, Empty string for few</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-16T18:45:42+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">is it there on website and not fetching here</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-16T18:45:42+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">?</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-16T18:48:51+0530" alias="vivek "><div>no its same as website</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-16T18:49:11+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">then there is no data in admin</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-16T18:49:19+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">that is why it is not displaying</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-16T18:49:22+0530" alias="vivek "><div>ok no problem</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-16T18:49:49+0530" alias="vivek "><div>thanks for todays change made.</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-16T18:49:53+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-16T18:53:28+0530" alias="vivek "><div>Hello</div></message>
+<status type="purple" time="2016-02-16T18:53:35+0530"><div><span style="font-family: Helvetica; font-size: 12pt;">Offering to send Screen Shot 2016-02-16 at 6.52.52 PM.png to suyati</span></div></status>
+<message sender="suyati@zaptech-pc" time="2016-02-16T18:53:37+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">hello</span></div></message>
+<status type="purple" time="2016-02-16T18:53:45+0530"><div><span style="font-family: Helvetica; font-size: 12pt;">Transfer of file Screen Shot 2016-02-16 at 6.52.52 PM.png complete</span></div></status>
+<message sender="vivek@192.168.15.43" time="2016-02-16T18:54:07+0530" alias="vivek "><div>we are getting unit for all in websitw</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-16T18:54:13+0530" alias="vivek "><div>website*</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-16T18:54:18+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">that is different db</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-16T18:54:23+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">we have it in our db</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-16T18:54:28+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">216 server</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-16T18:54:35+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">compare 216 and live site</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-16T18:54:42+0530" alias="vivek "><div>please send url</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-16T18:54:55+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">216.55.169.45/~pantrykart/master/index.php/</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-16T18:56:05+0530" alias="vivek "><div>you are right  </div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-16T18:56:29+0530" alias="vivek "><div>sorry for query.</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-16T18:56:35+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">thats ok :)</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-16T18:56:41+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">good we cross check </span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-16T18:56:50+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">client will send less issues</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-16T18:56:58+0530" alias="vivek "><div>ok</div></message>
+<event type="windowClosed" sender="vivek@192.168.15.43" time="2016-02-16T19:01:09+0530"></event></chat>

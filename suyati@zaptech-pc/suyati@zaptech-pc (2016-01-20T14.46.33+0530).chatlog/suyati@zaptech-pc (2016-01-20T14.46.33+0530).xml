@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<chat xmlns="http://purl.org/net/ulf/ns/0.4-02" account="vivek@192.168.15.43" service="Jabber" adiumversion="1.5.10" buildid="7ad57fbf4c17">
+<event type="windowOpened" sender="vivek@192.168.15.43" time="2016-01-20T14:46:35+0530"></event>
+<message sender="suyati@zaptech-pc" time="2016-01-20T14:46:34+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">hello</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-01-20T14:46:35+0530" alias="suyati"><div><a href="http://216.55.169.45/~pantrykart/master/web/cmsContent.php?cms=about-us" style="font-family: Helvetica; font-size: 12pt;">http://216.55.169.45/~pantrykart/master/web/cmsContent.php?cms=about-us</a></div></message>
+<message sender="suyati@zaptech-pc" time="2016-01-20T14:46:42+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">it is working now</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-01-20T14:46:47+0530" alias="vivek "><div>ok </div></message>
+<message sender="vivek@192.168.15.43" time="2016-01-20T14:46:50+0530" alias="vivek "><div>Thanks</div></message>
+<message sender="suyati@zaptech-pc" time="2016-01-20T14:47:00+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">you have to append <a href="http://216.55.169.45/~pantrykart/master/web/cmsContent.php?cms=about-us">http://216.55.169.45/~pantrykart/master/web/</a></span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-01-20T14:47:08+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">before all file names</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-01-20T14:47:11+0530" alias="vivek "><div>ok</div></message>
+<message sender="suyati@zaptech-pc" time="2016-01-20T14:47:35+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">let me know if any changes are needed</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-01-20T14:47:40+0530" alias="vivek "><div>ok</div></message>
+<event type="windowClosed" sender="vivek@192.168.15.43" time="2016-01-20T14:47:46+0530"></event>
+<event type="windowOpened" sender="vivek@192.168.15.43" time="2016-01-20T14:48:20+0530"></event>
+<event type="windowClosed" sender="vivek@192.168.15.43" time="2016-01-20T14:55:38+0530"></event>
+<event type="windowOpened" sender="vivek@192.168.15.43" time="2016-01-20T15:00:52+0530"></event>
+<event type="windowClosed" sender="vivek@192.168.15.43" time="2016-01-20T15:00:55+0530"></event></chat>

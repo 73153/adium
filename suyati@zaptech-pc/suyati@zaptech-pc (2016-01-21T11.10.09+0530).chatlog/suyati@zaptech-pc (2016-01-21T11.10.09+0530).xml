@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<chat xmlns="http://purl.org/net/ulf/ns/0.4-02" account="vivek@192.168.15.43" service="Jabber" adiumversion="1.5.10" buildid="7ad57fbf4c17">
+<event type="windowOpened" sender="vivek@192.168.15.43" time="2016-01-21T11:10:12+0530"></event>
+<message sender="vivek@192.168.15.43" time="2016-01-21T11:10:12+0530" alias="vivek "><div>Hi</div></message>
+<message sender="vivek@192.168.15.43" time="2016-01-21T11:10:34+0530" alias="vivek "><div>I am sending you the latest Pantry Kart screen shots.</div></message>
+<status type="purple" time="2016-01-21T11:10:40+0530"><div><span style="font-family: Helvetica; font-size: 12pt;">Offering to send PantryKart UI.zip to suyati</span></div></status>
+<message sender="suyati@zaptech-pc" time="2016-01-21T11:10:45+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<status type="purple" time="2016-01-21T11:10:54+0530"><div><span style="font-family: Helvetica; font-size: 12pt;">Transfer of file PantryKart UI.zip complete</span></div></status>
+<message sender="suyati@zaptech-pc" time="2016-01-21T11:11:06+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">i m updating all webservices</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-01-21T11:11:11+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">with POST</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-01-21T11:11:11+0530" alias="vivek "><div>ok</div></message>
+<event type="windowClosed" sender="vivek@192.168.15.43" time="2016-01-21T11:12:30+0530"></event></chat>

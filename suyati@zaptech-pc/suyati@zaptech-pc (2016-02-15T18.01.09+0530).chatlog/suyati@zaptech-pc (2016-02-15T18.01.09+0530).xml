@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<chat xmlns="http://purl.org/net/ulf/ns/0.4-02" account="vivek@192.168.15.43" service="Jabber" adiumversion="1.5.10" buildid="7ad57fbf4c17">
+<event type="windowOpened" sender="vivek@192.168.15.43" time="2016-02-15T19:06:13+0530"></event>
+<status type="offline" sender="suyati@zaptech-pc" time="2016-02-15T19:06:13+0530" alias="suyati"></status>
+<event type="windowClosed" sender="vivek@192.168.15.43" time="2016-02-15T19:25:34+0530"></event></chat>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<chat xmlns="http://purl.org/net/ulf/ns/0.4-02" account="vivek@192.168.15.43" service="Jabber" adiumversion="1.5.10.2" buildid="a23057ce854d">
+<event type="windowOpened" sender="vivek@192.168.15.43" time="2016-03-30T10:26:32+0530"></event>
+<message sender="vivek@192.168.15.43" time="2016-03-30T10:26:32+0530" alias="vivek "><div>Hello</div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-30T10:26:36+0530" alias="vivek "><div>Good Morning</div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-30T10:26:40+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">hi</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-30T10:26:43+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">gm</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-30T10:27:45+0530" alias="vivek "><div>For the image_url or multiple_images can we get the thumbnail image url as extra parameter</div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-30T10:28:46+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">means?</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-30T10:28:54+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">you want another parameter?</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-30T10:28:58+0530" alias="vivek "><div>Because when we are loading the image_url directly, we are receiving the memory issues</div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-30T10:29:03+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">with name thumbnail image?</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-30T10:29:07+0530" alias="vivek "><div>yes</div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-30T10:29:10+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-30T10:29:16+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">which ws?</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-30T10:29:23+0530" alias="vivek "><div>please check this image</div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-30T10:29:24+0530" alias="vivek "><div><a href="http://mycampusgenie.com/media/catalog/product/5/4/541395.jpg">http://mycampusgenie.com/media/catalog/product/5/4/541395.jpg</a></div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-30T10:29:34+0530" alias="vivek "><div>this is a bigger image </div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-30T10:29:46+0530" alias="vivek "><div>but we need the thumbnail url</div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-30T10:30:04+0530" alias="vivek "><div>as extra parameter</div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-30T10:30:22+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-30T10:30:34+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">tell me which of the ws u will need it?</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-30T10:30:47+0530" alias="vivek "><div>please do not change the existing keys</div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-30T10:30:49+0530" alias="vivek "><div>ok</div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-30T10:31:29+0530" alias="vivek "><div>dashboardProductList.php</div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-30T10:31:38+0530" alias="vivek "><div>categoryAssignedProdList.php</div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-30T10:31:41+0530" alias="vivek "><div>brandAssignedProductList.php</div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-30T10:31:46+0530" alias="vivek "><div>categorySub.php</div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-30T10:32:09+0530" alias="vivek "><div>topProductsPerCategoryList.php</div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-30T10:32:31+0530" alias="vivek "><div>for this only</div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-30T10:34:20+0530" alias="vivek "><div>also for searchprod.php</div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-30T10:46:46+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">wht is the size u need for thumbnail?</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-30T10:47:53+0530" alias="vivek "><div>200*200</div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-30T10:48:32+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">cant you get the image resized at runtime from ur end?</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-30T10:48:52+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">in website the thumbnail images are generated through cache</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-30T10:49:01+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">they are not stored in db </span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-30T10:49:27+0530" alias="vivek "><div>we can do , but it will put load on the app while running (It will not run smooth)</div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-30T11:18:38+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">this exact size is not available in cache folders even</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-30T11:18:46+0530" alias="suyati"><div><a href="http://mycampusgenie.com/media/catalog/product/cache/1/small_image/88x77/9df78eab33525d08d6e5fb8d27136e95/k/a/karela_3.jpg" style="font-family: Helvetica; font-size: 12pt;">http://mycampusgenie.com/media/catalog/product/cache/1/small_image/88x77/9df78eab33525d08d6e5fb8d27136e95/k/a/karela_3.jpg</a></div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-30T11:18:52+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">this size is available</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-30T11:19:01+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">run dashboard ws to check it</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-30T11:19:20+0530" alias="vivek "><div>ok this will work fine i think</div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-30T11:19:24+0530" alias="vivek "><div>i will check now</div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-30T11:23:06+0530" alias="vivek "><div>Hello</div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-30T11:23:20+0530" alias="vivek "><div>what is the resolution</div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-30T11:23:29+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">88*77</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-30T11:23:49+0530" alias="vivek "><div>can you please send little bigger?</div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-30T11:23:54+0530" alias="vivek "><div>150*150</div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-30T11:23:59+0530" alias="vivek "><div>or 200</div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-30T11:24:04+0530" alias="vivek "><div>200*200</div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-30T11:24:23+0530" alias="vivek "><div>Because it looks little blurr on screen</div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-30T11:56:03+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">hello</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-30T11:56:15+0530" alias="vivek "><div>Hello</div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-30T11:56:22+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">150 image which is there on website is coming from cache</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-30T11:56:31+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">getting resized on runtime</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-30T11:56:38+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">which i cannot send</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-30T11:56:54+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">so this one is only available</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-30T11:58:02+0530" alias="vivek "><div>any other resolution bigger than 88*77 can you please send</div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-30T11:58:07+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">no</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-30T11:58:09+0530" alias="vivek "><div>ok</div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-30T11:58:44+0530" alias="vivek "><div>we will try alternate from our side. thanks for your positive efforts</div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-30T11:58:50+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<status type="away" sender="suyati@zaptech-pc" time="2016-03-30T13:39:36+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">I&apos;m not here right now</span></div></status>
+<status type="idle" sender="suyati@zaptech-pc" time="2016-03-30T13:39:36+0530" alias="suyati"></status>
+<status type="available" sender="suyati@zaptech-pc" time="2016-03-30T13:59:42+0530" alias="suyati"></status>
+<status type="online" sender="suyati@zaptech-pc" time="2016-03-30T13:59:42+0530" alias="suyati"></status>
+<status type="away" sender="suyati@zaptech-pc" time="2016-03-30T14:04:41+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">I&apos;m not here right now</span></div></status>
+<status type="idle" sender="suyati@zaptech-pc" time="2016-03-30T14:04:41+0530" alias="suyati"></status>
+<status type="available" sender="suyati@zaptech-pc" time="2016-03-30T14:13:41+0530" alias="suyati"></status>
+<status type="online" sender="suyati@zaptech-pc" time="2016-03-30T14:13:41+0530" alias="suyati"></status>
+<status type="away" sender="suyati@zaptech-pc" time="2016-03-30T14:19:11+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">I&apos;m not here right now</span></div></status>
+<status type="idle" sender="suyati@zaptech-pc" time="2016-03-30T14:19:11+0530" alias="suyati"></status>
+<status type="available" sender="suyati@zaptech-pc" time="2016-03-30T14:19:38+0530" alias="suyati"></status>
+<status type="online" sender="suyati@zaptech-pc" time="2016-03-30T14:19:38+0530" alias="suyati"></status>
+<status type="away" sender="suyati@zaptech-pc" time="2016-03-30T16:36:24+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">I&apos;m not here right now</span></div></status>
+<status type="idle" sender="suyati@zaptech-pc" time="2016-03-30T16:36:24+0530" alias="suyati"></status>
+<status type="available" sender="suyati@zaptech-pc" time="2016-03-30T16:45:18+0530" alias="suyati"></status>
+<status type="online" sender="suyati@zaptech-pc" time="2016-03-30T16:45:18+0530" alias="suyati"></status>
+<status type="away" sender="suyati@zaptech-pc" time="2016-03-30T19:12:28+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">I&apos;m not here right now</span></div></status>
+<status type="idle" sender="suyati@zaptech-pc" time="2016-03-30T19:12:28+0530" alias="suyati"></status></chat>

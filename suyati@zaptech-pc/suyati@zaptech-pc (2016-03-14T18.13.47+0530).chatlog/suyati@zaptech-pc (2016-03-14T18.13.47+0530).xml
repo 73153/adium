@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<chat xmlns="http://purl.org/net/ulf/ns/0.4-02" account="vivek@192.168.15.43" service="Jabber" adiumversion="1.5.10.2" buildid="a23057ce854d">
+<event type="windowOpened" sender="vivek@192.168.15.43" time="2016-03-14T18:13:49+0530"></event>
+<message sender="vivek@192.168.15.43" time="2016-03-14T18:13:49+0530" alias="vivek "><div>Hell</div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-14T18:13:53+0530" alias="vivek "><div>hello*</div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-14T18:13:55+0530" alias="vivek "><div>Sorry</div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-14T18:14:24+0530" alias="vivek "><div>Contact us web service please check from your side</div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-14T18:18:36+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-14T18:19:26+0530" alias="vivek "><div>And in payment part what we have to do?</div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-14T18:19:34+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">not sure</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-14T18:19:45+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">still bhumik will let me know</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-14T18:19:58+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">after i guess discussion with client</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-14T18:20:06+0530" alias="vivek "><div>ok sure</div></message>
+<status type="away" sender="suyati@zaptech-pc" time="2016-03-14T19:41:31+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">I&apos;m not here right now</span></div></status>
+<status type="idle" sender="suyati@zaptech-pc" time="2016-03-14T19:41:31+0530" alias="suyati"></status></chat>

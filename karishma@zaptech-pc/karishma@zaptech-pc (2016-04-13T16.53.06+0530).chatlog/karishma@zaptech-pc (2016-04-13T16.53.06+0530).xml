@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<chat xmlns="http://purl.org/net/ulf/ns/0.4-02" account="vivek@192.168.15.43" service="Jabber" adiumversion="1.5.10.2" buildid="a23057ce854d">
+<event type="windowOpened" sender="vivek@192.168.15.43" time="2016-04-13T17:09:10+0530"></event>
+<message sender="vivek@192.168.15.43" time="2016-04-13T17:09:10+0530" alias="vivek "><div>Hello</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-13T17:09:19+0530" alias="vivek "><div>Where is Ashish bhai?</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-13T17:09:33+0530" alias="vivek "><div>Crashlytics sdk .....done</div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-13T17:09:58+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-13T17:10:02+0530" alias="vivek "><div>There was actually no issue</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-13T17:10:10+0530" alias="vivek "><div>What you know</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-13T17:10:32+0530" alias="vivek "><div>you don have to run from xcode and then crash</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-13T17:10:52+0530" alias="vivek "><div>you need to launch the application with crash build</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-13T17:11:07+0530" alias="vivek "><div>And then start application without xcode help</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-13T17:11:27+0530" alias="vivek "><div>then it will send the mail in with controller it got crashed.</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-13T17:12:29+0530" alias="vivek "><div>please check your mail for more information i have sned</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-13T17:12:34+0530" alias="vivek "><div>send you*</div></message>
+<status type="purple" time="2016-04-13T17:13:06+0530"><div><span style="font-family: Helvetica; font-size: 12pt;">Offering to send Screen Shot 2016-04-13 at 5.12.54 PM.png to karishma</span></div></status>
+<message sender="vivek@192.168.15.43" time="2016-04-13T17:13:15+0530" alias="vivek "><div>crashes screen shot</div></message>
+<status type="purple" time="2016-04-13T17:13:32+0530"><div><span style="font-family: Helvetica; font-size: 12pt;">Transfer of file Screen Shot 2016-04-13 at 5.12.54 PM.png complete</span></div></status>
+<message sender="vivek@192.168.15.43" time="2016-04-13T17:14:27+0530" alias="vivek "><div><a href="https://fabric.io/zaptechsolutions7/ios/apps/com.zaptechsolutions.pantrykart/issues/570e2f72ffcdc04250ac8b38">https://fabric.io/zaptechsolutions7/ios/apps/com.zaptechsolutions.pantrykart/issues/570e2f72ffcdc04250ac8b38</a></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-13T17:14:38+0530" alias="vivek "><div>check this link after login</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-13T17:14:47+0530" alias="vivek "><div>username:<a href="mailto:ashish.p@zaptechsolutions.com" style="text-decoration: underline;">ashish.p@zaptechsolutions.com</a><br /><br />password:123456</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-13T17:15:03+0530" alias="vivek "><div>it is very good sdk</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-13T17:15:27+0530" alias="vivek "><div>I like it give the line number also on which line app crashed.</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-13T17:20:18+0530" alias="vivek "><div>Hello</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-13T17:20:31+0530" alias="vivek "><div>Have you checked the link ?</div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-13T17:20:33+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">k</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-13T17:20:59+0530" alias="vivek "><div>What you are doing, Shall i help you out.</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-13T17:21:10+0530" alias="vivek "><div>share your task</div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-13T17:21:16+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">no</span></div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-13T17:21:18+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">chalse</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-13T17:21:20+0530" alias="vivek "><div>why?</div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-13T17:21:20+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">i do</span></div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-13T17:21:27+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">i will check</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-13T17:21:33+0530" alias="vivek "><div>great, Good , Excellent</div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-13T17:21:36+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">i check yesterday</span></div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-13T17:21:53+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">how this sdk is working</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-13T17:22:17+0530" alias="vivek "><div>there was no problem yesterday only it was done,</div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-13T17:22:26+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">nd today i also add new sdk for this creash list</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-13T17:22:34+0530" alias="vivek "><div>you need to launch the application with crash build<br /><br />And then start application without xcode help<br /><br />then it will send the mail in with controller it got crashed.<br /><br />please check your mail for more information i have send<br /><br /><br />this procedure we have to follow</div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-13T17:22:44+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">but ashish sir told u dont do</span></div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-13T17:22:52+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">so i discard my changes</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-13T17:22:58+0530" alias="vivek "><div>This above procedure you have to follow</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-13T17:23:00+0530" alias="vivek "><div>simple</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-13T17:23:14+0530" alias="vivek "><div>After integration of sdk</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-13T17:23:16+0530" alias="vivek "><div>you need to launch the application with crash build<br /><br />And then start application without xcode help<br /><br />then it will send the mail in with controller it got crashed.<br /><br />please check your mail for more information i have send<br /><br /><br />this procedure we have to follow</div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-13T17:24:06+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">pls dont push ur code</span></div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-13T17:24:14+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">i have changes in </span></div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-13T17:24:21+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">more vc</span></div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-13T17:24:23+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">so</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-13T17:25:44+0530" alias="vivek "><div>ok</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-13T17:25:53+0530" alias="vivek "><div>You push your code now</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-13T17:26:03+0530" alias="vivek "><div>so that i can integrate</div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-13T17:26:11+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">m working on dashboard</span></div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-13T17:26:21+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">u do for place request</span></div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-13T17:26:32+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">it is not proper till</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-13T17:26:35+0530" alias="vivek "><div>ok</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-13T17:27:10+0530" alias="vivek "><div>Where is Ashish Bhai?</div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-13T17:27:24+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">i dont knw</span></div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-13T17:27:32+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">ahi nathi</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-13T17:27:39+0530" alias="vivek "><div>ok thanks</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-13T17:28:04+0530" alias="vivek "><div><br />SubCategoriesViewController.m line 300 <br />__48-[SubCategoriesViewController getTopBarNameList]_block_invoke <br /></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-13T17:28:13+0530" alias="vivek "><div>mail you have checked?</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-13T17:28:39+0530" alias="vivek "><div>getTopBarNameList here i have force crashed and it give me method name and line number</div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-13T17:28:51+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-13T17:28:58+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">i check screen shot</span></div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-13T17:29:01+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">gud</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-13T17:29:14+0530" alias="vivek "><div>Thank you</div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-13T17:39:14+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">take pull</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-13T17:39:19+0530" alias="vivek "><div>ok sure</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-13T17:39:23+0530" alias="vivek "><div>hmm</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-13T17:39:37+0530" alias="vivek "><div>COOL</div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-13T17:39:48+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">nd tame kale koi crash marava code lakhyo to dashboard ma</span></div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-13T17:40:00+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">bcz crash mare 6 so</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-13T17:40:04+0530" alias="vivek "><div>ohh</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-13T17:40:15+0530" alias="vivek "><div>i will check now</div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-13T17:40:47+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">nd mara changes koi kadhta nai dashboard mathi bcz new code add karyo 6 pull to refresh mate</span></div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-13T17:40:59+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">nd m working in it till</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-13T17:41:01+0530" alias="vivek "><div>ok</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-13T17:41:04+0530" alias="vivek "><div>sure</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-13T17:44:24+0530" alias="vivek "><div>Hello</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-13T17:44:41+0530" alias="vivek "><div>Dashboard maa iphone 6 maa data nathi aavta scroll per</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-13T17:46:10+0530" alias="vivek "><div>Hello</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-13T17:46:23+0530" alias="vivek "><div>do you have zaptech solutions mail account ?</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-13T17:46:34+0530" alias="vivek "><div>so that you will also get crash mail</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-13T17:49:00+0530" alias="vivek "><div> </div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-13T17:50:12+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">upper thi refresh karo</span></div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-13T17:50:20+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">pull karo top thi</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-13T17:50:40+0530" alias="vivek "><div>still not</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-13T17:50:58+0530" alias="vivek "><div>Is Ashish Bhai told to do like this</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-13T17:51:00+0530" alias="vivek "><div>?</div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-13T17:51:10+0530" alias="vivek "><div> </div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-13T17:51:14+0530" alias="vivek "><div> </div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-13T17:51:17+0530" alias="vivek "><div>?</div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-13T17:51:27+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">hmm</span></div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-13T17:51:33+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">clint</span></div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-13T17:51:41+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">ene niche mukavanu 6</span></div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-13T17:51:54+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">atyare nai aavta</span></div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-13T17:52:03+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">atyar sudhi aavta hata</span></div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-13T17:52:10+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">pull to refresh ma</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-13T17:52:31+0530" alias="vivek "><div>refresh kai mukvaanu?</div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-13T17:52:42+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">bottom</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-13T17:52:44+0530" alias="vivek "><div>ok</div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-13T17:52:50+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">m doing</span></div></message>
+<message sender="karishma@zaptech-pc" time="2016-04-13T17:52:57+0530" alias="karishma"><div><span style="font-family: Helvetica; font-size: 12pt;">u do place request</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-13T17:53:24+0530" alias="vivek "><div> </div></message>
+<message sender="vivek@192.168.15.43" time="2016-04-13T17:53:26+0530" alias="vivek "><div>k</div></message>
+<event type="windowClosed" sender="vivek@192.168.15.43" time="2016-04-13T18:09:32+0530"></event></chat>

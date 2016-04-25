@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<chat xmlns="http://purl.org/net/ulf/ns/0.4-02" account="vivek@192.168.15.43" service="Jabber" adiumversion="1.5.10" buildid="7ad57fbf4c17">
+<event type="windowOpened" sender="vivek@192.168.15.43" time="2016-02-09T18:45:33+0530"></event>
+<message sender="vivek@192.168.15.43" time="2016-02-09T18:45:33+0530" alias="vivek "><div>Hello</div></message>
+<status type="away" sender="suyati@zaptech-pc" time="2016-02-09T18:45:34+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">I&apos;m not here right now</span></div></status>
+<status type="idle" sender="suyati@zaptech-pc" time="2016-02-09T18:45:34+0530" alias="suyati"></status>
+<status type="available" sender="suyati@zaptech-pc" time="2016-02-09T18:45:37+0530" alias="suyati"></status>
+<status type="online" sender="suyati@zaptech-pc" time="2016-02-09T18:45:37+0530" alias="suyati"></status>
+<message sender="vivek@192.168.15.43" time="2016-02-09T18:46:27+0530" alias="vivek "><div>cartAction web service was working before in noon, but now it is not working.</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-09T18:47:04+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">what is the error?</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-09T18:47:06+0530" alias="vivek "><div>please check this,.</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-09T18:47:18+0530" alias="vivek "><div>No response.</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-09T18:47:29+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">can u pls send the screenshot?</span></div></message>
+<status type="purple" time="2016-02-09T18:49:27+0530"><div><span style="font-family: Helvetica; font-size: 12pt;">Offering to send cartActions.png to suyati</span></div></status>
+<message sender="vivek@192.168.15.43" time="2016-02-09T18:49:37+0530" alias="vivek "><div>please accept this screen shot.</div></message>
+<status type="purple" time="2016-02-09T18:59:22+0530"><div><span style="font-family: Helvetica; font-size: 12pt;">Transfer of file cartActions.png complete</span></div></status>
+<message sender="suyati@zaptech-pc" time="2016-02-09T19:04:59+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">userid</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-09T19:05:02+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">not Userid</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-09T19:05:07+0530" alias="vivek "><div>ok</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-09T19:05:18+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">pls use all parameters in small case only</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-09T19:05:27+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">i change everytime in sheet</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-09T19:05:33+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">but it autoformats again</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-09T19:05:40+0530" alias="vivek "><div>ok</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-09T19:06:56+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">is it working now?</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-09T19:09:14+0530" alias="vivek "><div>i am checking now</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-09T19:09:17+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;"> ok</span></div></message>
+<status type="offline" sender="suyati@zaptech-pc" time="2016-02-09T19:12:11+0530" alias="suyati"></status>
+<event type="windowClosed" sender="vivek@192.168.15.43" time="2016-02-09T19:13:36+0530"></event></chat>

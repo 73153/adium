@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<chat xmlns="http://purl.org/net/ulf/ns/0.4-02" account="vivek@192.168.15.43" service="Jabber" adiumversion="1.5.10" buildid="7ad57fbf4c17">
+<event type="windowOpened" sender="vivek@192.168.15.43" time="2016-02-29T14:54:05+0530"></event>
+<message sender="vivek@192.168.15.43" time="2016-02-29T14:54:05+0530" alias="vivek "><div>Hello</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-29T14:54:34+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">hi</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-29T14:54:50+0530" alias="vivek "><div>Shopping list  response we are not getting sku of the product.</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-29T14:55:23+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">checking</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-29T14:55:29+0530" alias="vivek "><div>ok</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-29T14:55:44+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">which ws?</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-29T14:55:51+0530" alias="vivek "><div>one min</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-29T14:56:22+0530" alias="vivek "><div>wishlist.php</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-29T14:56:32+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-29T14:58:40+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">check now</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-29T15:07:10+0530" alias="vivek "><div>ok</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-29T15:08:07+0530" alias="vivek "><div>yes getting now</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-29T15:08:11+0530" alias="vivek "><div>thanks</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-29T15:08:25+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<status type="away" sender="suyati@zaptech-pc" time="2016-02-29T15:34:26+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">I&apos;m not here right now</span></div></status>
+<status type="idle" sender="suyati@zaptech-pc" time="2016-02-29T15:34:26+0530" alias="suyati"></status>
+<status type="available" sender="suyati@zaptech-pc" time="2016-02-29T15:35:11+0530" alias="suyati"></status>
+<status type="online" sender="suyati@zaptech-pc" time="2016-02-29T15:35:11+0530" alias="suyati"></status>
+<message sender="suyati@zaptech-pc" time="2016-02-29T15:41:13+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">have you reached till delivery preference ws?</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-29T15:41:27+0530" alias="vivek "><div>no</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-29T15:41:44+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">ok.. when u reach it let me know</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-29T15:41:50+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">i will have to explain a bit</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-29T15:42:04+0530" alias="vivek "><div>ok</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-29T16:26:02+0530" alias="vivek "><div>Hello</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-29T16:26:08+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">hi</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-29T16:26:37+0530" alias="vivek "><div>in edit profile we can edit  billing address also</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-29T16:26:55+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">for my account?</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-29T16:27:02+0530" alias="vivek "><div>please make change for this in customerInfoUpdate.php</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-29T16:27:24+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">there is separate ws for editing address</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-29T16:27:32+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">pls use that</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-29T16:27:41+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">for are different functions</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-29T16:27:45+0530" alias="vivek "><div>ok sure</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-29T16:27:50+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">    	 	 	 	 	 	 	     	 	 		customerAddressUpdate.php 	     </span></div></message>
+<status type="away" sender="suyati@zaptech-pc" time="2016-02-29T16:34:33+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">I&apos;m not here right now</span></div></status>
+<status type="idle" sender="suyati@zaptech-pc" time="2016-02-29T16:34:33+0530" alias="suyati"></status>
+<status type="available" sender="suyati@zaptech-pc" time="2016-02-29T16:49:24+0530" alias="suyati"></status>
+<status type="online" sender="suyati@zaptech-pc" time="2016-02-29T16:49:24+0530" alias="suyati"></status>
+<message sender="vivek@192.168.15.43" time="2016-02-29T18:17:19+0530" alias="vivek "><div>Hello</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-29T18:17:28+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">hello</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-29T18:17:50+0530" alias="vivek "><div>Please check checkoutAddressStep.php web service from ur end</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-29T18:18:19+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">wht issue are you facing?</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-29T18:18:31+0530" alias="vivek "><div>not getting response</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-29T18:18:42+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">did u add to product to cart?</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-29T18:18:57+0530" alias="vivek "><div>yes</div></message>
+<status type="purple" time="2016-02-29T18:19:02+0530"><div><span style="font-family: Helvetica; font-size: 12pt;">Offering to send DeliveryPreference.png to suyati</span></div></status>
+<status type="purple" time="2016-02-29T18:19:11+0530"><div><span style="font-family: Helvetica; font-size: 12pt;">Transfer of file DeliveryPreference.png complete</span></div></status>
+<message sender="suyati@zaptech-pc" time="2016-02-29T18:20:12+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">what is this?</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-29T18:20:30+0530" alias="vivek "><div>screen shot for the response received.</div></message>
+<status type="purple" time="2016-02-29T18:20:45+0530"><div><span style="font-family: Helvetica; font-size: 12pt;">Offering to send checkout2.png to suyati</span></div></status>
+<message sender="vivek@192.168.15.43" time="2016-02-29T18:20:48+0530" alias="vivek "><div>sorry </div></message>
+<status type="purple" time="2016-02-29T18:20:54+0530"><div><span style="font-family: Helvetica; font-size: 12pt;">Transfer of file checkout2.png complete</span></div></status>
+<message sender="vivek@192.168.15.43" time="2016-02-29T18:20:58+0530" alias="vivek "><div>i have send wrong screen shot</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-29T18:21:24+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">it has to be send as an array</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-29T18:21:30+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">and not separate variables</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-29T18:21:37+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">i have given the format</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-29T18:21:41+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">in the sheet itself</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-29T18:21:44+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">new_address</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-29T18:21:46+0530" alias="vivek "><div>ok sure</div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-29T18:21:48+0530" alias="vivek "><div>thanks</div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-29T18:22:19+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">{</span><br /><span style="font-family: Helvetica; font-size: 12pt;">	&quot;firstname&quot;: &quot;Test&quot;,</span><br /><span style="font-family: Helvetica; font-size: 12pt;">	&quot;lastname&quot;: &quot;Test&quot;,</span><br /><span style="font-family: Helvetica; font-size: 12pt;">	&quot;street&quot;: [&quot;street11&quot;, &quot;street2&quot;],</span><br /><span style="font-family: Helvetica; font-size: 12pt;">	&quot;city&quot;: &quot;city&quot;,</span><br /><span style="font-family: Helvetica; font-size: 12pt;">	&quot;region&quot;: &quot;Texas&quot;,</span><br /><span style="font-family: Helvetica; font-size: 12pt;">	&quot;region_id&quot;: &quot;57&quot;,</span><br /><span style="font-family: Helvetica; font-size: 12pt;">	&quot;postcode&quot;: &quot;75080&quot;,</span><br /><span style="font-family: Helvetica; font-size: 12pt;">	&quot;telephone&quot;: &quot;11112333&quot;,</span><br /><span style="font-family: Helvetica; font-size: 12pt;">	&quot;mobile&quot;: &quot;123456&quot;</span><br /><span style="font-family: Helvetica; font-size: 12pt;">}</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-02-29T18:22:26+0530" alias="vivek "><div>ok </div></message>
+<message sender="suyati@zaptech-pc" time="2016-02-29T18:22:29+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">new_address</span></div></message></chat>

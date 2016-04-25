@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<chat xmlns="http://purl.org/net/ulf/ns/0.4-02" account="vivek@192.168.15.43" service="Jabber" adiumversion="1.5.10.2" buildid="a23057ce854d">
+<event type="windowOpened" sender="vivek@192.168.15.43" time="2016-03-11T11:03:28+0530"></event>
+<message sender="vivek@192.168.15.43" time="2016-03-11T11:03:28+0530" alias="vivek "><div>Hello</div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-11T11:03:35+0530" alias="vivek "><div>Good Morning</div></message>
+<status type="available" sender="suyati@zaptech-pc" time="2016-03-11T11:04:06+0530" alias="suyati"></status>
+<status type="online" sender="suyati@zaptech-pc" time="2016-03-11T11:04:06+0530" alias="suyati"></status>
+<message sender="suyati@zaptech-pc" time="2016-03-11T11:05:01+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">hello</span></div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-11T11:05:06+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">gudmorning</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-11T11:06:11+0530" alias="vivek "><div>Ashish has talked with Bhuik about the live server web service, have you have the status for the sma </div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-11T11:06:14+0530" alias="vivek "><div>same*</div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-11T11:06:52+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">actually i m just waiting for admin credentials</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-11T11:07:08+0530" alias="vivek "><div>ohh set you didn&apos;t get yet</div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-11T11:07:09+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">then only i will be able to check it</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-11T11:07:21+0530" alias="vivek "><div>ok</div></message>
+<message sender="suyati@zaptech-pc" time="2016-03-11T11:07:37+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">will let u know as bhumik comes</span></div></message>
+<message sender="vivek@192.168.15.43" time="2016-03-11T11:07:57+0530" alias="vivek "><div>ok no worry</div></message>
+<status type="away" sender="suyati@zaptech-pc" time="2016-03-11T11:28:24+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">I&apos;m not here right now</span></div></status>
+<status type="idle" sender="suyati@zaptech-pc" time="2016-03-11T11:28:24+0530" alias="suyati"></status>
+<status type="available" sender="suyati@zaptech-pc" time="2016-03-11T11:35:24+0530" alias="suyati"></status>
+<status type="online" sender="suyati@zaptech-pc" time="2016-03-11T11:35:24+0530" alias="suyati"></status>
+<status type="away" sender="suyati@zaptech-pc" time="2016-03-11T11:40:48+0530" alias="suyati"><div><span style="font-family: Helvetica; font-size: 12pt;">I&apos;m not here right now</span></div></status>
+<status type="idle" sender="suyati@zaptech-pc" time="2016-03-11T11:40:48+0530" alias="suyati"></status>
+<event type="windowClosed" sender="vivek@192.168.15.43" time="2016-03-11T11:55:29+0530"></event></chat>
